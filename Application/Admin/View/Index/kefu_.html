@@ -1,0 +1,62 @@
+<include file="./Application/Admin/View/Public/kefu_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>客服列表 <small>客服列表</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>客服 </th>
+                    <th>联系电话 </th>
+                    <th>登录名 </th>
+                    <th>使用状态 </th>
+                    <th>审核状态 </th>
+                    <th>操作 </th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="data" id="p_d">
+                    <tr>
+                        <td>{$p_d['customer_service_name']}</td>
+                        <td>{$p_d['customer_service_tel']}</td>
+                        <td>{$p_d['customer_service_user']}</td>
+                        <if condition="$p_d['is_use'] eq 1">
+                            <td>使用中</td>
+                            <else/>
+                            <td style="background-color: #b16549">已禁用</td>
+                        </if>
+                        <if condition="$p_d['is_shenhe'] eq 1">
+                            <td>已审核</td>
+                            <else/>
+                            <td style="background-color: #b16549">未审核</td>
+                        </if>
+                        <td>
+                            <a href="{:U('Admin/Index/kefu_detail','','')}/id/{$p_d['customer_service_id']}" this-id="{$p_d['customer_service_id']}" class="btn btn-primary">查看该客服详情</a>
+                            <button this-id="{$p_d['customer_service_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除该客服</button>
+                            <if condition="$p_d['is_use'] eq 1">
+                                <a href="{:U('Admin/Public/unUseKefu','','')}/table/tb_customer_service/pk/customer_service_id/id/{$p_d['customer_service_id']}" class="btn btn-danger">禁用该客服</a>
+                                <else/>
+                                <a href="{:U('Admin/Public/useKefu','','')}/id/{$p_d['customer_service_id']}" class="btn btn-success">启用该客服</a>
+                            </if>
+                            <if condition="$p_d['is_shenhe'] eq 0">
+                                <a href="{:U('Admin/Public/shenhe','','')}/id/{$p_d['customer_service_id']}" class="btn btn-success">审核通过</a>
+                            </if>
+                        </td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该客服？注意：该操作不可逆，请谨慎操作")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_customer_service/pk/customer_service_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

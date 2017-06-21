@@ -1,0 +1,67 @@
+﻿/* - - - - - - - - - 各浏览器样式默认值标准化  - - - - - - - - -*/
+html,body,span,object,iframe,h1,h2,h3,h4,h5,p,blockquote,pre,
+a,address,code,
+del,em,img,dl,dt,dd,ol,ul,li,
+fieldset,form,label{
+margin:0;padding:0;border:0;
+font-style:inherit;font-family:inherit;vertical-align:baseline;}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,audio,video{margin:0;padding:0;display: block;}
+html{-webkit-text-size-adjust:none;}
+img{border:none;vertical-align:middle;}
+input,select,button{padding:0;margin:0;outline:none;font-family:inherit;vertical-align:middle;}
+textarea{font-family:inherit;padding:0;margin:0;}
+button{cursor:pointer;}
+html{overflow-x:hidden;}
+
+@media screen and (min-width: 741px){
+	body{max-width:1920px;margin:0 auto;font-size:14px;background:#fff;font-family:Arial,'Microsoft YaHei', Helvetica, sans-serif;}
+	p{ font-size:14px;}
+	ul,ol{list-style-type:none;}
+	h1{font-size:24px;}
+	h2{font-size:18px;}
+	h3,h4{font-size:14px;}
+	h5{font-size:14px;}
+	.center{margin:0 auto;width:1170px;}	/*让内容区块居中*/
+	a{ text-decoration:none;color:#020202;}
+	a:hover{text-decoration:underline;transition:color 200ms linear 0s,background-color 200ms linear 0s,border-color 200ms linear 0s;color:#f00;}	/*鼠标悬停时*/
+	a:active{}	/*点击与释放时*/
+	a:visited{}/* 访问过 */
+}
+@media screen and (max-width: 740px){
+	body{min-width:320px;max-width:740px;margin:0 auto;font-size:62.5%;font-family:Arial,'Microsoft YaHei', Helvetica, sans-serif;background-color:#fff;}
+	ul,ol{list-style-type:none;}
+	h1{font-size:3.6em;}
+	h2{font-size:2.8em;}
+	h3,h4{font-size:2.4em;}
+	h5{font-size:2.0em;}
+	a{ text-decoration:none;color:#4f4f4f;}
+	a:hover{}	/*鼠标悬停时*/
+	a:active{transition:color 200ms linear 0s,background-color 200ms linear 0s,border-color 200ms linear 0s;color:#f00000;outline:none;}
+	a:visited{}/* 访问过 */
+	.center{width:100%;}
+}
+
+i,em,address{font-style:normal;}
+/*  - - - - - - - - - 常用类样式  - - - - - - - - -*/
+.photo_fullsize img{display:block;width:100%;height:100%;}	/*图片全尺寸*/
+.no_bor{ border:none!important;}	/*无边框*/
+.no_bg{ background:none!important;}	/*无背景*/
+.clear{ display:block;height:0; line-height:0;overflow:hidden; clear:both;font-size:0;}/*清除浮动*/
+.clear_::after{content:"";display:block; clear:both;height:0; line-height:0; overflow:hidden;}/*清除浮动*/
+
+/*浮动条*/
+	#Floatingbar{width:64px;position:fixed;top:50%;right:0; z-index:60000;_position:absolute;_top:expression(eval(document.documentElement.scrollTop this.offsetHeight));}
+	#Floatingbar ul li{width:64px;height:64px;position:relative;margin-bottom:2px;}
+	#Floatingbar ul li span{position:absolute;right:-250px;background-color:#000;top:0px;width:120px;text-align:center;color:#fff;height:64px;line-height:64px;}
+	#Floatingbar ul li span.pic{width:118px;height:auto;padding:8px; text-align:center;}
+	#Floatingbar ul li span.pic img{width:100%;}
+	#Floatingbar ul li a{width:100%;height:100%;text-indent:-99em;overflow:hidden;background:url(../images/float_iconlist.png) no-repeat left top;display:block;position:relative;z-index:1000;}
+	#Floatingbar ul li a.icon1{background-position:left top ;}
+	#Floatingbar ul li.change .icon1,#Floatingbar ul li a.icon1:hover{background-position:right top;}
+	#Floatingbar ul li a.icon2{background-position:0px -66px;}
+	#Floatingbar ul li.change .icon2,#Floatingbar ul li a.icon2:hover{background-position:right -66px;}
+	#Floatingbar ul li a.icon3{background-position:0px -132px;}
+	#Floatingbar ul li.change .icon3,#Floatingbar ul li a.icon3:hover{background-position:right -132px;}
+	#Floatingbar ul li a.icon4{background-position:0px -198px;}
+	#Floatingbar ul li.change .icon4,#Floatingbar ul li a.icon4:hover{background-position:right -198px;}
+	

@@ -1,0 +1,61 @@
+<include file="./Application/Admin/View/Public/order_top.html" />
+<div class="row">
+    <div class="col-xs-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>字段 </th>
+                    <th>内容  </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>订单ID</td>
+                    <td>{$data[0]['order_id']}</td>
+                </tr>
+                <tr>
+                    <td>课程名</td>
+                    <td>{$data[0]['class_name']}</td>
+                </tr>
+                <tr>
+                    <td>任课教师</td>
+                    <td>{$data[0]['class_teacher']}</td>
+                </tr>
+                <tr>
+                    <td>游客姓名</td>
+                    <td>{$data[0]['tourists_name']|}</td>
+                </tr>
+                <tr>
+                    <td>游客电话</td>
+                    <td>{$data[0]['tourists_tel']}</td>
+                </tr>
+                <tr>
+                    <td>游客身份证</td>
+                    <td>{$data[0]['tourists_id_number']}</td>
+                </tr>
+                <tr>
+                    <td>游客地址</td>
+                    <td>{$data[0]['tourists_address']}</td>
+                </tr>
+                <tr>
+                    <td>游客邮箱</td>
+                    <td>{$data[0]['tourists_email']}</td>
+                </tr>
+                <tr>
+                    <td>处理客服姓名</td>
+                    <td>{$data[0]['customer_service_name']}</td>
+                </tr>
+                <tr>
+                    <td>状态</td>
+                    <if condition="$data[0]['is_chuli'] eq 1">
+                        <td style="background-color: #b16549">已联系</td>
+                        <else/>
+                        <td>未联系</td>
+                    </if>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

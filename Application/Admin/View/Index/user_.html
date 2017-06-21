@@ -1,0 +1,43 @@
+<include file="./Application/Admin/View/Public/user_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>管理员列表 <small>管理员列表</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>管理员名字 </th>
+                    <th>管理员帐户 </th>
+                    <if condition="$id eq 'SA'">
+                        <th>操作 </th>
+                    </if>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="manager" id="manager">
+                    <tr>
+                        <td>{$manager['manager_name']}</td>
+                        <td>{$manager['manager_user']}</td>
+                        <if condition="$id eq 'SA'">
+                            <td>
+                                <button this-id="{$manager['manager_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除该管理员</button>
+                            </td>
+                        </if>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该用户？注意：该操作不可逆，请谨慎操作")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_manager/pk/manager_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

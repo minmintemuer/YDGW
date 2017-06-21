@@ -1,0 +1,66 @@
+
+		<div id="fullcarousel-example " data-interval="false" class="carousel slide " data-ride="carousel ">
+			<div class="carousel-inner ">
+				<!--导航栏-->
+				<div class="navbar navbar-default navbar-static-top">
+					<div class="container">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+							<a href="{:U('Home/Index/index','','')}" class="navbar-brand"><span>优大</span></a>
+						</div>
+						<div class="collapse navbar-collapse" id="navbar-ex-collapse">
+							<ul class="nav navbar-nav navbar-right">
+								<li class="active">
+									<a href="{:U('Home/Index/gsjj','','')}">公司简介</a>
+								</li>
+								<li>
+									<a href="{:U('Home/Index/hyzx','','')}">行业资讯</a>
+								</li>
+								<li>
+									<a href="{:U('Home/Index/kcjj','','')}">课程展示</a>
+								</li>
+								<li>
+									<a href="{:U('Home/Index/gshd','','')}">公司活动</a>
+								</li>
+								<li>
+									<a href="{:U('Home/Index/jsfc','','')}">教师风采</a>
+								</li>
+                                <li>
+                                    <a href="{:U('Home/Index/allb','','')}">典型案例</a>
+                                </li>
+
+							</ul>
+						</div>
+					</div>
+				</div>
+				<!--简介大图-->
+				<div class="item active ">
+					<img src="__PUBLIC__/banner1.jpg" class="height_max_400">
+				</div>
+			</div>
+			</div>
+		<!--简介标题-->
+			<div class="section ">
+				<div class="container ">
+					<div class="row ">
+						<div class="col-md-12 ">
+							<h1>优大新渝</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		<!--简介内容-->
+			<div class="section ">
+				<div class="container ">
+					<div class="row ">
+						<div class="col-md-12 ">
+							{$data[0]['introduction_content']}
+						</div>
+					</div>
+				</div>
+			</div>

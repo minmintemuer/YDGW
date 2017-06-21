@@ -1,0 +1,37 @@
+<include file="./Application/Admin/View/Public/kefu_top.html" />
+<div class="row">
+    <div class="col-xs-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>字段 </th>
+                    <th>内容  </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>客服名称</td>
+                    <td>{$data[0]['customer_service_name']}</td>
+                </tr>
+                <tr>
+                    <td>客服登陆账号</td>
+                    <td>{$data[0]['customer_service_user']}</td>
+                </tr>
+                <tr>
+                    <td>客服电话</td>
+                    <td>{$data[0]['customer_service_tel']}</td>
+                </tr>
+                <tr>
+                    <td>使用状态</td>
+                    <if condition="$data[0]['is_use'] eq 1">
+                        <td style="background-color: #b16549">使用中</td>
+                        <else/>
+                        <td>已禁用</td>
+                    </if>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,104 @@
+<include file="./Application/Admin/View/Public/news_top.html" />
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label>新闻标题</label>
+            <input class="form-control" id="news_categroy">
+            <p class="help-block">请输入新闻名称</p>
+        </div>
+        <div class="form-group">
+            <label>新闻作者</label>
+            <input class="form-control" id="news_admin">
+            <p class="help-block">请输入新闻作者</p>
+        </div>
+        <div class="form-group">
+            <label>新闻摘要</label>
+            <input class="form-control" id="news_introduction">
+            <p class="help-block">请输入新闻摘要</p>
+        </div>
+        <div class="form-group">
+            <label>新闻展示图片</label>
+            <form id="image_form" action="{:U('/Admin/Ajax/ajax_upload_image','','')}" method="post" target="hidden_frame" enctype="multipart/form-data">
+                <div class="form-group">
+                    <!--<label for="index_company_logo">允许格式：</label>-->
+                    <input id="index_company_logo" name="index_company_logo" type="file" onchange="uploadImg()" class="form-control" >
+                    <div class="col-xs-12" id="error_info" style="display: none"></div>
+                    <div class="col-md-3" style="display: block">
+                        <img  id="image_area" src="" width="100%" height="auto" ihref="" style="display: none">
+                    </div>
+                </div>
+            </form> <iframe style="display:none" name='hidden_frame' id="hidden_frame"></iframe>
+            <p class="help-block">请上传专题图片</p>
+            <script language="JavaScript">
+                function uploadImg()
+                {
+                    $("#image_form").submit();
+                }
+                function callback(message,success)
+                {
+                    if(success==false)
+                    {
+                        $("#error_info").html("<div class='bzsj_left'></div>"+message);
+                        $("#error_info").show();
+                        alert(message);
+                    }
+                    else{
+                        $("#error_info").hide();
+                        $("#image_area").attr("src",'__PUBLIC__'+message);
+                        $("#image_area").attr("ihref",message);
+                        $("#image_area").css("display","block");
+                        $("#image_area").show();
+                    }
+                }
+            </script>
+        </div>
+        <div class="col-md-12" style="display: inline-block;">
+            <div class="form-group">
+                <label>请写入新闻详情</label>
+                <script id="container" style="height:800px"  type="text/plain">
+
+                </script>
+                <!-- 配置文件 -->
+                <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+                <!-- 编辑器源码文件 -->
+                <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.all.js"></script>
+                <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/lang/zh-cn/zh-cn.js"></script>
+                <!-- 实例化编辑器 -->
+                <script type="text/javascript">
+                    var ue = UE.getEditor('container');
+                </script>
+            </div>
+        </div>
+        <div class="col-md-12 text-right">
+            <label class="hvr-sweep-to-right" style="margin: 30px">
+                <button class="btn btn-primary" type="submit" value="提交" onclick="tijiao()">提交</button>
+            </label>
+        </div>
+    </div>
+</div>
+<script language="JavaScript">
+    function tijiao(){
+        if(confirm("是否提交？")){
+            $.ajax({
+                url:"{:U('/Admin/Ajax/ajax_add_news','','html')}",
+                dataType: 'json',
+                type:'post',
+                data:{
+                    news_categroy:$("#news_categroy").val(),
+                    news_admin:$("#news_admin").val(),
+                    news_introduction:$("#news_introduction").val(),
+                    news_img: $("#image_area").attr("ihref"),
+                    news_content:UE.getEditor('container').getContent()
+                },
+                success:function (data) {
+                    if (data.success){
+                        alert(data.message);
+                        window.location.reload();
+                    }else {
+                        alert(data.message);
+                    }
+                }
+            })
+        }
+    }
+</script>

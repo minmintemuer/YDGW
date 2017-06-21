@@ -1,0 +1,66 @@
+<include file="./Application/Admin/View/Public/jianjie_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>简介列表 <small>简介管理总览</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>字段 </th>
+                    <th>内容  </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>简介上传者</td>
+                    <td>{$data[0]['introduction_admin_id']}</td>
+                </tr>
+                <tr>
+                    <td>简介最后更新时间</td>
+                    <td>{$data[0]['introduction_time']|date="Y-m-d H:i:s",###}</td>
+                </tr>
+                <tr>
+                    <td>展示状态</td>
+                    <if condition="$data[0]['is_show'] eq 1">
+                        <td style="background-color: #b16549">展示中</td>
+                        <else/>
+                        <td>不显示</td>
+                    </if>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1>简介详情 <small>以下是简介详情</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        {$data[0]['introduction_content']}
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <a href="{:U('Admin/Index/edit_jianjie','','')}/id/{$data[0]['introduction_id']}" class="btn btn-default">修改</a>
+        <button this-id="{$data[0]['introduction_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+        <if condition="$data[0]['is_show'] eq 1">
+            <a href="{:U('Admin/Public/xiajianjie','','')}/table/tb_introduction/pk/introduction_id/id/{$data[0]['introduction_id']}" class="btn btn-danger">隐藏</a>
+            <else/>
+            <a href="{:U('Admin/Public/shangjiejian','','')}/table/tb_introduction/pk/introduction_id/id/{$data[0]['introduction_id']}" class="btn btn-default">展示</a>
+        </if>
+    </div>
+</div>
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该条简介？")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_introduction/pk/introduction_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

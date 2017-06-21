@@ -1,0 +1,3732 @@
+[ 2017-03-22T00:07:19+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-22T00:07:21+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T00:07:24+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-22T00:07:26+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-22T00:07:30+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T00:08:48+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-22T00:08:49+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-22T00:09:15+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-22T00:09:16+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-22T00:12:41+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2017-03-22T00:12:44+08:00 ] ::1 /company/YDGW/Admin/Index/edit_news/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-22T00:12:53+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-22T00:13:35+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-22T00:13:36+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-22T00:14:06+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-03-22T00:14:09+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-22T00:19:13+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-22T00:19:14+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T00:19:53+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-22T00:19:55+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T00:20:12+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T00:20:13+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-03-22T00:20:15+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-03-22T00:20:20+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-22T00:21:41+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T00:21:42+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-22T00:22:51+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-03-22T00:22:51+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T00:22:52+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-03-22T00:23:30+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T00:23:32+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-22T00:23:33+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-22T00:23:33+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-22T00:23:33+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-22T00:24:54+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-03-22T00:25:58+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-22T00:26:00+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-22T00:26:05+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-22T00:26:08+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0093s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png') [ RunTime:0.0860s ]
+
+[ 2017-03-22T00:27:18+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0089s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png')
+
+[ 2017-03-22T00:27:23+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001622s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0152s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png')
+
+[ 2017-03-22T00:27:59+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0148s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('1','/production/image/image/2017-03-22/58d1541de07c5.png') [ RunTime:0.0892s ]
+
+[ 2017-03-22T00:28:01+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-03-22T00:28:06+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T00:28:12+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-22T00:28:13+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T00:28:14+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_img/pk/img_id/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T00:28:15+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2017-03-22T00:28:17+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T00:28:18+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-22T00:28:19+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T00:28:24+08:00 ] ::1 /company/YDGW/Admin/Public/del/table/tb_img/pk/img_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-22T00:28:25+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-03-22T00:28:29+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-03-22T00:28:31+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T00:28:32+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-22T00:31:01+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T00:31:02+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T00:34:05+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-22T00:34:11+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-03-22T00:34:13+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0135s ]
+
+[ 2017-03-22T00:34:15+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2017-03-22T00:34:17+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-03-22T00:34:36+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-03-22T00:34:38+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0103s ]
+
+[ 2017-03-22T00:34:39+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T00:34:53+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-03-22T00:34:55+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0157s ]
+
+[ 2017-03-22T00:34:57+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-22T00:35:03+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-03-22T00:35:05+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0106s ]
+
+[ 2017-03-22T00:35:08+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-03-22T00:35:25+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-03-22T00:35:28+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2017-03-22T00:35:50+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0116s ]
+
+[ 2017-03-22T00:36:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003545s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0090s ]
+
+[ 2017-03-22T00:36:49+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2017-03-22T00:37:22+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-03-22T00:37:27+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-03-22T00:37:31+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-03-22T00:38:04+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+
+[ 2017-03-22T00:38:10+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-03-22T00:38:13+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-03-22T00:38:46+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-03-22T00:39:08+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2017-03-22T00:39:23+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-03-22T00:39:28+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001020s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001527s ]
+
+[ 2017-03-22T00:39:36+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-03-22T00:39:38+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001324s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001261s ]
+
+[ 2017-03-22T00:41:12+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0835s ]
+SQL: SELECT * FROM `tb_img` WHERE ( img_id=1 && is_del='0' )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-03-22T00:42:04+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-03-22T00:42:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2017-03-22T00:42:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-03-22T00:42:20+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-03-22T00:42:22+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-03-22T00:43:48+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-03-22T00:43:52+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2017-03-22T00:44:01+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2017-03-22T00:52:55+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0098s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-03-22T00:53:25+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001145s ]
+
+[ 2017-03-22T00:55:01+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0343s ]
+
+[ 2017-03-22T00:55:46+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0114s ]
+
+[ 2017-03-22T00:59:12+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-03-22T00:59:23+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-03-22T01:00:27+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002315s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-03-22T01:00:49+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-03-22T01:00:54+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-03-22T01:03:00+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0135s ]
+ERR: 1054:Unknown column 'class_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d1541de07c5.png' WHERE ( class_id = 1 )
+ERR: 1054:Unknown column 'class_id' in 'where clause'
+ [ SQL语句 ] : UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d1541de07c5.png' WHERE ( class_id = 1 )
+
+[ 2017-03-22T01:03:15+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0093s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1'' )' at line 1
+ [ SQL语句 ] : UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d1541de07c5.png' WHERE ( img_id = '1'' )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1'' )' at line 1
+ [ SQL语句 ] : UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d1541de07c5.png' WHERE ( img_id = '1'' )
+
+[ 2017-03-22T01:03:42+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0093s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d1541de07c5.png' WHERE ( img_id = '1' ) [ RunTime:0.0446s ]
+
+[ 2017-03-22T01:03:50+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2017-03-22T01:03:52+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0100s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15cf663dc2.png' WHERE ( img_id = '1' ) [ RunTime:0.0680s ]
+
+[ 2017-03-22T01:03:53+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-03-22T01:04:45+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-03-22T01:04:46+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001288s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0133s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15d2d18d6f.png' WHERE ( img_id = '1' && is_del=0 ) [ RunTime:0.0334s ]
+
+[ 2017-03-22T01:05:43+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001640s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0089s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15d2d18d6f.png' WHERE ( img_id = '1' AND is_del=0 ) [ RunTime:0.0002s ]
+
+[ 2017-03-22T01:05:47+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-03-22T01:05:49+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0111s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15d6bab482.png' WHERE ( img_id = '1' AND is_del=0 ) [ RunTime:0.0004s ]
+
+[ 2017-03-22T01:05:58+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002276s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0109s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15d6bab482.png' WHERE ( img_id = '1' AND is_del=0 ) [ RunTime:0.0002s ]
+
+[ 2017-03-22T01:06:37+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0714s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15d6bab482.png' WHERE ( img_id = '1' AND is_del='0' ) [ RunTime:0.0698s ]
+
+[ 2017-03-22T01:06:38+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-22T01:06:56+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-22T01:06:57+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0149s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15db00bf27.png' WHERE ( img_id = '1' && is_del='0' ) [ RunTime:0.0803s ]
+
+[ 2017-03-22T01:06:58+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2017-03-22T01:09:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+
+[ 2017-03-22T01:09:16+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0134s ]
+SQL: UPDATE `tb_img` SET `img_title`='1',`img_url`='/production/image/image/2017-03-22/58d15e3a8c42b.png' WHERE ( img_id=1 && is_del='0' ) [ RunTime:0.0380s ]
+
+[ 2017-03-22T01:09:17+08:00 ] ::1 /company/YDGW/Admin/Index/edit_index_img/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2017-03-22T01:10:13+08:00 ] ::1 /company/YDGW/Admin/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-03-22T01:10:15+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-22T01:10:16+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-22T01:10:17+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-22T01:10:18+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T01:10:19+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-22T01:11:18+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-03-22T01:14:02+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003337s ]
+
+[ 2017-03-22T01:51:52+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+
+[ 2017-03-22T01:51:53+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T01:52:23+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-03-22T01:52:34+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-03-22T01:52:35+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+
+[ 2017-03-22T01:52:44+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-03-22T01:52:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-22T01:55:58+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-03-22T01:55:59+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-22T01:56:35+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T01:57:07+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T01:57:08+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T01:57:12+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T01:57:30+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T01:57:32+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-22T01:57:39+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-03-22T01:57:40+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-03-22T01:57:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-22T01:58:12+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-03-22T01:58:13+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-22T01:58:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-03-22T01:58:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-22T01:58:52+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-22T01:58:53+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T01:59:20+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-22T01:59:27+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T01:59:38+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-22T01:59:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-03-22T01:59:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-22T02:00:03+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T02:00:21+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T02:00:22+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-22T02:00:23+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-03-22T02:00:32+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T02:00:40+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-03-22T02:00:53+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-03-22T02:01:01+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-22T02:01:02+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-22T02:01:41+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T02:01:42+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-03-22T02:01:42+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-03-22T02:01:56+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-22T02:01:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-03-22T02:02:07+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+
+[ 2017-03-22T02:02:08+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-03-22T02:02:16+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-22T02:02:28+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-03-22T02:03:47+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T02:03:47+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T02:05:12+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-22T02:05:14+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T02:05:17+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-22T02:06:27+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T02:06:31+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T02:06:34+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T02:06:40+08:00 ] ::1 /company/YDGW/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T02:06:42+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T02:06:43+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T12:29:11+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-22T12:30:05+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-03-22T12:30:06+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-22T12:30:08+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-03-22T12:30:12+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-22T12:31:20+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-22T12:38:52+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-22T12:53:35+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0135s ]
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tb_manager` WHERE ( manager_user=admin ) 
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tb_manager` WHERE ( manager_user=admin ) 
+
+[ 2017-03-22T12:54:35+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-03-22T12:55:04+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:55:06+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-03-22T12:55:21+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0002s ]
+
+[ 2017-03-22T12:55:26+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-03-22T12:55:28+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-03-22T12:55:30+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-03-22T12:55:43+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-03-22T12:55:45+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-22T12:55:47+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-03-22T12:55:55+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0002s ]
+
+[ 2017-03-22T12:55:56+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T12:56:41+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0002s ]
+
+[ 2017-03-22T12:56:48+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001886s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0002s ]
+
+[ 2017-03-22T12:56:50+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:56:53+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002231s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0653s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:57:13+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:57:17+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-03-22T12:57:31+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001533s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:57:34+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0004s ]
+
+[ 2017-03-22T12:57:44+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-22T12:57:46+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-22T12:57:49+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-22T12:57:54+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T12:58:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:59:00+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0426s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T12:59:33+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+
+[ 2017-03-22T13:00:04+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0450s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+SQL: UPDATE `tb_manager` SET `manager_password`='b6c5d9120ca44f50bd9da905c689bae7e10adc3949ba59abbe56e057f20f883e',`manager_sale`='b6c5d9120ca44f50bd9da905c689bae7' WHERE ( manager_user='admin' ) [ RunTime:0.0556s ]
+
+[ 2017-03-22T13:00:30+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001991s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0004s ]
+SQL: UPDATE `tb_manager` SET `manager_password`='eee4a56463596a3ab5da684f3b4fa22be10adc3949ba59abbe56e057f20f883e',`manager_sale`='eee4a56463596a3ab5da684f3b4fa22b' WHERE ( manager_user='admin' ) [ RunTime:0.0803s ]
+
+[ 2017-03-22T13:00:32+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+
+[ 2017-03-22T13:00:42+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_save_pwd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='admin' )  [ RunTime:0.0003s ]
+SQL: UPDATE `tb_manager` SET `manager_password`='c87a522bbafe29e239b7cfadfeb8ca50202cb962ac59075b964b07152d234b70',`manager_sale`='c87a522bbafe29e239b7cfadfeb8ca50' WHERE ( manager_user='admin' ) [ RunTime:0.0483s ]
+
+[ 2017-03-22T13:00:43+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+
+[ 2017-03-22T13:00:45+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-22T13:00:47+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-03-22T13:00:51+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-03-22T13:00:54+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-03-22T13:02:28+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-03-22T13:02:32+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-03-22T13:02:39+08:00 ] ::1 /company/YDGW/Admin/Index/add_user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-22T13:02:51+08:00 ] ::1 /company/YDGW/Admin/Ajax/add_user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002055s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_user='1634621150' )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `tb_manager` (`manager_user`,`manager_password`,`manager_name`,`manager_sale`) VALUES ('1634621150','4b7a9b570d5cca47a756a4a69317ba91202cb962ac59075b964b07152d234b70','dada','4b7a9b570d5cca47a756a4a69317ba91') [ RunTime:0.0737s ]
+
+[ 2017-03-22T13:02:53+08:00 ] ::1 /company/YDGW/Admin/Index/add_user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-03-22T13:02:55+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-22T13:02:56+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+
+[ 2017-03-22T13:03:04+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T13:03:06+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-03-22T13:03:08+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-22T13:03:10+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-22T13:03:16+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-22T13:03:18+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T13:03:19+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-22T13:03:20+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-22T13:03:21+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-22T13:03:22+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-03-22T13:03:22+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-22T13:03:23+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-22T13:03:24+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-03-22T13:03:29+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-03-22T13:04:09+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-03-22T13:04:15+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-03-22T13:04:17+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-22T13:04:23+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T13:04:32+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-22T13:04:33+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-22T13:04:35+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-22T13:04:38+08:00 ] ::1 /company/YDGW/Admin/Public/shenhe/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:04:40+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-03-22T13:04:53+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T13:04:53+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T13:04:55+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-22T13:04:56+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-03-22T13:04:59+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-22T13:04:59+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-22T13:05:01+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:05:01+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-03-22T13:05:02+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-22T13:05:03+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-03-22T13:05:04+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-03-22T13:05:05+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:05:06+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+
+[ 2017-03-22T13:05:07+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-22T13:05:07+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:05:08+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-22T13:05:09+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:05:10+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-22T13:05:12+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-03-22T13:05:13+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:05:14+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-03-22T13:05:14+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-22T13:05:15+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T13:05:15+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T13:05:16+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-03-22T13:05:17+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-22T13:05:18+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:05:18+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-22T13:05:19+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:05:19+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T13:05:20+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-03-22T13:05:20+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T13:05:21+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-03-22T13:05:21+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-22T13:05:22+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-22T13:05:23+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-22T13:05:24+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T13:05:24+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-03-22T13:05:32+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2017-03-22T13:05:33+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-03-22T13:06:19+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T13:06:22+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T13:06:35+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-03-22T13:06:36+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-03-22T13:06:37+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-03-22T13:06:38+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2017-03-22T13:06:38+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-03-22T13:06:39+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T13:06:40+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-03-22T13:06:40+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-22T13:06:41+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-22T13:07:42+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-22T13:07:44+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:07:44+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-22T13:07:45+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T13:07:46+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:07:46+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-22T13:07:47+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-22T13:07:48+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:07:48+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-22T13:07:49+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T13:07:50+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-03-22T13:07:50+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-22T13:07:52+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-22T13:07:57+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-22T13:08:05+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-22T13:08:09+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T13:08:19+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-22T13:08:21+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-22T13:08:23+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:08:27+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-03-22T13:08:33+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-22T13:08:44+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:08:46+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-22T13:08:46+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T13:08:47+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-22T13:08:49+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-03-22T13:08:54+08:00 ] ::1 /company/YDGW/Admin/Public/useKefuid/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 非法操作:useKefuid
+
+[ 2017-03-22T13:09:35+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-03-22T13:09:37+08:00 ] ::1 /company/YDGW/Admin/Public/useKefu/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 参数错误或者未定义:table
+
+[ 2017-03-22T13:10:50+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-03-22T13:10:53+08:00 ] ::1 /company/YDGW/Admin/Public/useKefu/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-22T13:10:54+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:10:56+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-03-22T13:10:58+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:11:05+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-03-22T13:11:13+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-03-22T13:11:19+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-22T13:11:27+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-22T13:11:30+08:00 ] ::1 /company/YDGW/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T13:11:44+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-22T13:11:46+08:00 ] ::1 /company/YDGW/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-22T13:12:06+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_kefu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+SQL: SHOW COLUMNS FROM `tb_customer_service` [ RunTime:0.0116s ]
+
+[ 2017-03-22T13:12:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_kefu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `tb_customer_service` [ RunTime:0.0099s ]
+
+[ 2017-03-22T13:12:21+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_kefu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+SQL: SHOW COLUMNS FROM `tb_customer_service` [ RunTime:0.0548s ]
+
+[ 2017-03-22T13:12:33+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_kefu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `tb_customer_service` [ RunTime:0.0110s ]
+
+[ 2017-03-22T13:13:15+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_kefu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `tb_customer_service` [ RunTime:0.0442s ]
+SQL: SELECT * FROM `tb_customer_service` WHERE ( customer_service_user='aa' )  [ RunTime:0.0003s ]
+SQL: INSERT INTO `tb_customer_service` (`customer_service_user`,`customer_service_tel`,`customer_service_name`,`customer_service_id_number`,`customer_service_password`,`customer_service_sale`) VALUES ('aa','15736369960','123','500228199709010','957a78f5ddc130a3ff359acf26e5805e202cb962ac59075b964b07152d234b70','957a78f5ddc130a3ff359acf26e5805e') [ RunTime:0.0826s ]
+
+[ 2017-03-22T13:13:18+08:00 ] ::1 /company/YDGW/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-03-22T13:13:26+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T13:13:28+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-22T13:13:29+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-22T13:13:32+08:00 ] ::1 /company/YDGW/Admin/Public/shenhe/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:13:34+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-03-22T13:13:48+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-03-22T13:13:50+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-22T13:13:55+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-03-22T13:13:59+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T13:14:05+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-03-22T13:14:11+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-22T13:14:12+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T13:14:15+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-22T13:17:07+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-03-22T13:17:08+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-03-22T13:17:12+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T13:17:21+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:17:23+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-03-22T13:17:24+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:17:28+08:00 ] ::1 /company/YDGW/Admin/Public/useKefu/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-03-22T13:17:29+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-22T13:17:32+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-22T13:17:33+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-22T13:17:36+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-22T13:17:37+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T13:17:39+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-03-22T13:17:40+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-22T13:17:40+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-22T13:17:43+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-22T13:17:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-03-22T13:17:53+08:00 ] ::1 /company/YDGW/Admin/Index/user_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-22T13:17:57+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-22T13:17:59+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:18:02+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-03-22T13:18:06+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-03-22T13:18:09+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-22T13:19:01+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:19:03+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T13:19:04+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T13:19:06+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:19:09+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-03-22T13:19:12+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-22T13:19:15+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-03-22T13:19:28+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-22T13:19:35+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-03-22T13:19:38+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-22T13:19:39+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-22T13:19:43+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-22T13:19:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:19:47+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-03-22T13:19:49+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-03-22T13:19:50+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2017-03-22T13:19:52+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-22T13:19:53+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-03-22T13:19:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T13:19:59+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T13:20:01+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-22T13:20:03+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T13:20:04+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-03-22T13:20:05+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-22T13:20:06+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-22T13:20:07+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-03-22T13:20:08+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-03-22T13:20:09+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-22T13:20:11+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:20:12+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-03-22T13:20:13+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-03-22T13:20:14+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:20:15+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-03-22T13:20:15+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-22T13:20:17+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+
+[ 2017-03-22T13:21:09+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:21:10+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-22T13:21:14+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:23:06+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:23:07+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-03-22T13:23:08+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:23:09+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T13:23:10+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:23:11+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-03-22T13:23:12+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:23:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-22T13:24:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T13:24:59+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T13:25:00+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-22T13:27:53+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T13:27:55+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-22T13:27:57+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:27:58+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-03-22T13:28:00+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-22T13:28:09+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-03-22T13:28:10+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-22T13:28:12+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-22T13:28:12+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-22T13:28:18+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-03-22T13:28:20+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-03-22T13:28:28+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-22T13:28:31+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:29:21+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-22T13:29:22+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:29:23+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-22T13:29:24+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-03-22T13:29:25+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-22T13:29:26+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-22T13:29:26+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T13:29:27+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:29:28+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-22T13:29:29+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:29:29+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-03-22T13:29:31+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T13:29:32+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T13:29:32+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-22T13:29:33+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-22T13:29:34+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-03-22T13:29:35+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:29:35+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T13:29:37+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-22T13:29:37+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-22T13:29:38+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:29:39+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-22T13:29:39+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-22T13:29:40+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:29:41+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-22T13:29:44+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T13:29:45+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-22T13:29:46+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:29:46+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T13:29:47+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-22T13:29:47+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-22T13:29:48+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-03-22T13:29:48+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:29:49+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-22T13:29:49+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T13:29:50+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-22T13:30:49+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-22T13:31:09+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-22T13:31:30+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:32:03+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-03-22T13:32:03+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-22T13:32:04+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:32:12+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-22T13:32:15+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-22T13:34:16+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-22T13:34:40+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-03-22T13:36:24+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:36:25+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-03-22T13:36:44+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:36:45+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-22T13:36:46+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T13:36:47+08:00 ] ::1 /company/YDGW/Admin/Index/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-22T13:36:49+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-22T13:36:51+08:00 ] ::1 /company/YDGW/Admin/Index/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T13:36:52+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:37:29+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:37:49+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-22T13:37:52+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-22T13:37:55+08:00 ] ::1 /company/YDGW/Admin/Index/add_user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-22T13:37:56+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-22T13:37:58+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-22T13:37:59+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-22T13:38:01+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-22T13:38:06+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:38:07+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-03-22T13:38:09+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-03-22T13:38:11+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-22T13:38:13+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-22T13:38:14+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-22T13:38:17+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-22T13:39:17+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T13:39:20+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T13:39:21+08:00 ] ::1 /company/YDGW/Admin/Index/area_
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:39:23+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:40:33+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-22T13:41:00+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T13:41:15+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-22T13:41:37+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:41:38+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:41:44+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:41:46+08:00 ] ::1 /company/YDGW/Admin/Index/pro_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T13:41:51+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-22T13:42:09+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-22T13:42:10+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:42:27+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:42:29+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T13:42:30+08:00 ] ::1 /company/YDGW/Admin/Index/area_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-22T13:42:33+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:42:53+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-22T13:42:58+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T13:43:14+08:00 ] ::1 /company/YDGW/Admin/Index/edit_jitang/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-22T13:43:41+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-03-22T13:43:43+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-22T13:43:46+08:00 ] ::1 /company/YDGW/Admin/Index/edit_jitang/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-22T13:43:52+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-22T13:43:55+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-03-22T13:43:58+08:00 ] ::1 /company/YDGW/Admin/Index/edit_jitang/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-03-22T13:44:02+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-22T13:44:05+08:00 ] ::1 /company/YDGW/Admin/Public/del/table/tb_soft_text/pk/soft_text_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T13:44:06+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T13:44:09+08:00 ] ::1 /company/YDGW/Admin/Index/jitang_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-22T13:44:12+08:00 ] ::1 /company/YDGW/Admin/Index/edit_jitang/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-22T13:44:16+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-22T13:44:19+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-22T13:44:36+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2017-03-22T13:44:39+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-22T13:44:43+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-22T13:44:49+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-22T13:45:14+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-22T13:45:15+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-22T13:45:26+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-22T13:45:27+08:00 ] ::1 /company/YDGW/Admin/Index/order_detail/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-22T13:45:34+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-22T13:45:37+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-22T13:45:39+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T13:45:39+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-03-22T13:45:40+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-03-22T13:45:40+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T13:45:41+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:45:42+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-22T13:45:44+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-03-22T13:45:44+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-22T13:45:45+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-22T13:45:46+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-22T13:45:46+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T13:45:47+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-22T13:45:48+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:45:48+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-22T13:45:49+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T13:46:09+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T13:46:14+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-22T13:46:15+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-22T13:46:36+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-22T13:46:37+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T13:46:38+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-22T13:46:39+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T13:46:39+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-22T13:46:40+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-22T13:46:41+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-22T13:46:41+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-22T13:46:42+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+
+[ 2017-03-22T13:46:42+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T13:46:43+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-22T13:46:43+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-22T13:46:44+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-22T13:46:44+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T13:46:45+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-22T13:46:45+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-03-22T13:46:46+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-22T13:46:47+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-22T19:05:23+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.117131s ]
+
+[ 2017-03-22T19:05:32+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-22T19:05:35+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-22T19:05:39+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-03-22T19:05:42+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-22T19:05:44+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-22T19:05:45+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-03-22T19:05:46+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-22T19:05:48+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-22T19:05:48+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T19:05:50+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T19:05:50+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-22T19:05:52+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-22T19:05:53+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-22T19:05:56+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T19:05:57+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T19:06:09+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-22T19:06:11+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-22T19:06:13+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-22T19:06:21+08:00 ] ::1 /company/YDGW/Admin/Index/user_html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-22T19:06:23+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-22T19:06:25+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-22T19:06:28+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-22T19:06:30+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-03-22T19:06:31+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-22T19:07:00+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-22T19:07:01+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-22T19:07:03+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T19:07:04+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-22T19:07:06+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-22T19:07:10+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-03-22T19:07:11+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-22T19:07:13+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-22T19:07:13+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-22T19:07:14+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-22T19:07:14+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-22T19:07:15+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-22T19:07:15+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-22T19:07:16+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-22T19:07:17+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2017-03-22T19:07:20+08:00 ] ::1 /company/YDGW/Admin/Index/edit_user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-22T19:07:22+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-22T19:16:18+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008521s ]
+
+[ 2017-03-22T20:09:26+08:00 ] ::1 /company/YDGW/Admin/Index/index.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-03-22T20:10:08+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-22T20:10:13+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-22T20:10:40+08:00 ] ::1 /company/YDGW/Admin/Index/index.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-03-22T20:10:43+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-22T20:25:38+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T21:15:16+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-22T21:15:22+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-22T21:15:25+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-22T21:15:30+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-22T21:15:31+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T21:15:57+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-22T21:16:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_activety` [ RunTime:0.0058s ]
+SQL: INSERT INTO `tb_activety` (`activety_name`,`activety_crowd`,`activety_admin`,`activety_start_time`,`activety_end_time`,`activety_img`,`activety_content`) VALUES ('564','54654','3','1483200000','1488297600','/production/image/image/2017-03-22/58d2790dc41ac.png','<p>测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局测试湖十局</p>') [ RunTime:0.1050s ]
+
+[ 2017-03-22T21:16:09+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+

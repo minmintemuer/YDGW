@@ -1,0 +1,57 @@
+<include file="./Application/Admin/View/Public/jianjie_top.html" />
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label>简介作者</label>
+            <input class="form-control" id="introduction_admin_id" value="{$data[0]['introduction_admin_id']}">
+            <p class="help-block">请输入简介上传人</p>
+        </div>
+        <div class="col-md-12" style="display: inline-block;">
+            <div class="form-group">
+                <label>请写入简介详情</label>
+                <script id="container" style="height:800px"  type="text/plain">
+                       {$data[0]['introduction_content']}
+                </script>
+                <!-- 配置文件 -->
+                <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+                <!-- 编辑器源码文件 -->
+                <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.all.js"></script>
+                <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/lang/zh-cn/zh-cn.js"></script>
+                <!-- 实例化编辑器 -->
+                <script type="text/javascript">
+                    var ue = UE.getEditor('container');
+                </script>
+            </div>
+        </div>
+        <div class="col-md-12 text-right">
+            <label class="hvr-sweep-to-right" style="margin: 30px">
+                <button class="btn btn-primary" type="submit" value="提交" onclick="tijiao()">提交修改</button>
+            </label>
+        </div>
+    </div>
+</div>
+<script language="JavaScript">
+    function tijiao(){
+        if(confirm("是否提交？")){
+            $.ajax({
+                url:"{:U('/Admin/Ajax/ajax_save_introduction','','html')}",
+                dataType: 'json',
+                type:'post',
+                data:{
+                    id:{$data[0]['introduction_id']},
+                    introduction_admin_id:$("#introduction_admin_id").val(),
+                    introduction_img: $("#image_area").attr("ihref"),
+                    introduction_content:UE.getEditor('container').getContent()
+                },
+                success:function (data) {
+                    if (data.success){
+                        alert(data.message);
+                        window.location.reload();
+                    }else {
+                        alert(data.message);
+                    }
+                }
+            })
+        }
+    }
+</script>

@@ -1,0 +1,45 @@
+<include file="./Application/Admin/View/Public/pro_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>课程列表 <small>课程管理总览(课程和老师是一一对应关系，先有老师的课程，再允许添加课程列表)</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>课程名称  </th>
+                    <th>任课教师  </th>
+                    <th>价格  </th>
+                    <th>最后更新时间  </th>
+                    <th>操作 </th>
+                </tr>
+                </thead>
+                <tbody>
+                    <volist name="data" id="p_d">
+                        <tr>
+                            <td>{$p_d['class_name']}</td>
+                            <td>{$p_d['class_teacher']}</td>
+                            <td>{$p_d['class_price']}</td>
+                            <td>{$p_d['class_time']|date="Y-m-d H:i:s",###}</td>
+                            <td>
+                                <a href="{:U('pro_detail','','')}/id/{$p_d['class_id']}" this-id="{$p_d['class_id']}" class="btn btn-primary">查看详情</a>
+                                <button this-id="{$p_d['class_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+                                <a href="{:U('edit_pro','','')}/id/{$p_d['class_id']}" class="btn btn-success">编辑</a>
+                            </td>
+                        </tr>
+                    </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除这门课程？")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_class/pk/class_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

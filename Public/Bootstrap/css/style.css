@@ -1,0 +1,425 @@
+.header-div{
+    margin-top: 23px;
+}
+.search{
+    background-color: rgb(80,33,12);
+    border: 0;
+    height:30px;
+    width: 69px;
+    color: #f9efe8;
+    font-family: "Microsoft YaHei UI Light";
+    font-weight: 700;
+}
+.search-form{
+    margin-top: 19px;
+}
+.search-input{
+    height: 30px;
+    border: 2px solid black;
+    position: relative;
+    left: -5px;
+    width:220px;
+    background-color: rgb(245,236,232);
+}
+.search-ul{
+    padding:0;
+}
+.search-ul ul{
+    margin-top: 5px;
+    font-size: 12px;
+    padding:0;
+    display: inline-block;
+}
+.search-ul ul>li{
+    padding:0;
+    float: left;
+    list-style-type: none;
+    color: #1e1d1c;
+    margin-right:15px;
+}
+.header-nav-menu{
+    padding:0;
+    font-size: 14px;
+    color: #ddc382;
+}
+.header-nav-menu ul{
+    padding:0;
+}
+.header-nav-menu ul>li{
+    float: right;
+    list-style-type: none;
+    display: inline-block;
+    padding-left:12px;
+}
+.header-nav-menu ul>li>a{
+    font-size: 14px;
+    color: #ddc382;
+}
+.header-nav-menu ul>li>a:hover{
+    text-decoration: none;
+    color: #b16549;
+}
+.header-nav li{
+    color: #50210c;
+    font-size: 18px;
+    font-weight: 900;
+}
+.style-nav{
+    background: url("../../../Public/Images/nav-bg.png");
+    background-size: 100% 100%;
+    margin: 0;
+}
+.mumen-nav{
+    padding:0;
+}
+.mumen-nav>ul{
+    padding:0;
+    text-align: center;
+}
+.mumen-nav>ul>li{
+    font-size: 18px;
+    line-height: 40px;
+    list-style-type:none;
+    height:40px;
+    background-color: rgb(252,244,235);
+}
+.yuyue-a{
+    background: url("../../../Public/Images/yuyue-button.png");
+    display: inline-block;
+    width: 100%;
+    height:40px;
+    background-size: 100% 100%;
+    text-align: center;
+    color: #563720;
+    font-size: 18px;
+    line-height: 40px;
+    font-family: "Microsoft YaHei UI";
+}
+.yuyue-a:hover{
+    text-decoration: none;
+}
+.yuyue-form{
+    /*margin-top: 20px;*/
+    background: url("../../../Public/Images/form-bg.png");
+    background-size: 100% 100%;
+    height:320px;
+}
+.yuyue-form div{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top:15px;
+}
+.yuyue-form>div>label{
+    display: block;
+    width:40%;
+    overflow: hidden;
+    float: left;
+}
+.yuyue-form>div>input{
+    display: block ;
+    width:60%;
+    float: left;
+}
+.yuyue-form>div>button{
+    width: 86px;
+    height:25px;
+    background: url("../../../Public/Images/bt_66.png");
+
+}
+.left-fixed-box{
+    position: fixed;
+    width: 210px;
+    top:60%;
+    background: url("../../../Public/Images/form-bg.png");
+    background-size: 100% 100%;
+    border: 2px solid #8f8d8f;
+}
+.photo-block{
+    margin-top: 20px;
+}
+.title{
+    background: url("../../../Public/Images/title-bg.png");
+    background-size: 100% 100%;
+    height:45px;
+}
+.title>div>span{
+    line-height: 45px;
+    font-family: "Microsoft YaHei UI";
+    font-size: 18px;
+}
+.title-more{
+    float: right;
+    margin-top: 20px;
+}
+.block-body{
+    margin-top: 10px;
+}
+.block-body div a{
+    color: #6b4c55;
+    font-family: "Microsoft YaHei UI";
+    font-weight:bold;
+}
+.block-body div a:hover{
+    text-decoration: none;
+    color: white;
+}
+.block-body div a p{
+    padding-left: 10%;
+    padding-top: 1%;
+}
+.photo-border{
+    padding: 10px;
+    border:1px solid black;
+}
+.no-padding{
+    padding:0;
+}
+.bold{
+    font-weight: 900;
+    font-size: 11px;
+}
+.sjfx-image-block a{
+    color: #000;
+    font-family: "Microsoft YaHei UI";
+    font-weight:bold;
+}
+.sjfx-image-block a:hover{
+    text-decoration: none;
+    color: #ff8984;
+}
+.sjfx-image-block p{
+    font-size: 13px;
+    padding:25px 0;
+    font-family: "Microsoft YaHei UI Light";
+    border-bottom: 1px dashed black;
+}
+.sjfx-m-t{
+    margin-top: 25px;
+}
+.sjfx-news-block ul{
+    padding:0;
+}
+.sjfx-news-block ul li{
+    list-style-type: none;
+    font-size: 10px;
+    padding: 5px 0;
+    border-bottom: 1px dashed black;
+}
+.sjfx-news-block ul li span{
+    float: right;
+}
+.bg-color{
+    background-color: rgb(247,240,222);
+    padding:0;
+    padding-bottom: 25px;
+}
+.news-block-title{
+    padding:10px 20px;
+    background: url("../../../Public/Images/bt_60.png");
+    background-size: 100% 100%;
+    font-size: 12px;
+}
+.news-body{
+    background: url("../../../Public/Images/nb_63.png");
+    background-size: 100% 100%;
+}
+.news-list ul{
+    padding:0;
+}
+.news-list ul li{
+    font-size: 10px;
+    padding:5px 0;
+}
+.news-list ul li a{
+    color: #000;
+}
+.news-list ul li a:hover{
+    color: #bf1759;
+    text-decoration: none;;
+}
+.news-list ul li span{
+    float: right;
+}
+.liuyan-form{
+    margin-top: 20px;
+    height:320px;
+}
+.liuyan-form div{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+}
+.liuyan-form>div>label{
+    display: block;
+    width:30%;
+    overflow: hidden;
+    float: left;
+    font-size: 10px;
+}
+.liuyan-form>div>input{
+    display: block ;
+    width:70%;
+    float: left;
+}
+.liuyan-form>div>button{
+    background: url("../../../Public/Images/bt_66.png");
+    background-size: 100% 100%;
+    height:25px;
+    width: 86px;
+}
+.f-title{
+    background: url("../../../Public/Images/bg_69.png");
+    background-size: 100% 100%;
+    height:26px;
+}
+.footer-nav ul{
+    display: inline-block;
+}
+.footer-nav ul li{
+   line-height: 70px;
+    float: right;
+    list-style-type: none;
+    padding-right: 15px;
+    color: #53442d;
+    display:  block;
+}
+.footer-nav ul li a{
+    color: #53442d;
+}
+.footer-nav ul li a:hover{
+    text-decoration: none;
+    color: #66625b;
+}
+.footer-bottom{
+    background-color: rgb(244,227,167);
+    height:55px;
+}
+.mumen-nav ul li{
+    cursor: pointer;
+    margin: 5px 0;
+}
+.erji_menu_ul ul{
+    display: inline-block;
+}
+.erji_menu_ul ul li{
+    list-style-type: none;
+    float: left;
+    padding:5px 15px;
+    margin-top: 15px;
+    margin-right: 5px;
+    font-size: 14px;
+    font-family: "Microsoft YaHei UI Light";
+    cursor: pointer;
+    background-color: #868673;
+    border-radius: 3px;
+    color: white;
+}
+.erji_menu_ul ul li:hover{
+    background-color:#628286;
+    color: whitesmoke;
+}
+.menu_nav_block{
+    border-bottom: 1px solid #628286;
+    background-color: rgb(237,223,199);
+}
+.person-title{
+    width:100%;
+    background-color: #604637;
+    border-radius:5px;
+}
+.person-title>h3{
+    padding:10px;
+    display: inline-block;;
+    margin: 0;
+    border-radius:5px;
+    background-color: #b1ae74;
+}
+.style-button{
+    margin-right:10px;
+    float: right;
+    color: whitesmoke;
+    padding:10px;
+    background-color: #857869;
+    border-radius: 2px;
+}
+.style-button:hover{
+    text-decoration: none;
+    color:rgb(247,240,222);
+    background-color: #85803d;
+}
+.news-image-block{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #a3b7bf;
+    border-radius: 3px;
+}
+.form-group>button{
+    display: inline-block;
+}
+.menu-nav{
+    padding:0;
+}
+.menu-nav>ul{
+    padding:0;
+    text-align: center;
+}
+.menu-nav>ul>li{
+    font-size: 18px;
+    line-height: 25px;
+    list-style-type:none;
+    background-color: rgb(252,244,235);
+}
+.share_a_style{
+    color: #000;
+}
+.share_a_style:hover{
+    text-decoration: none;
+}
+.style-a{
+    color: #000;
+    font-family: "Microsoft YaHei UI";
+    font-weight:600;
+}
+.style-a:hover{
+    text-decoration: none;
+    color:#66625b;
+}
+.yuyue-form ul{
+    padding:0;
+}
+.yuyue-form ul li{
+    list-style-type: none;
+}
+.yuyue-form ul li div p{
+    font-family: "Microsoft YaHei UI";
+    font-size: 16px;
+    text-align: center;
+}
+.yuyue-form ul li a{
+    color: #000;
+}
+.yuyue-form ul li a:hover{
+    text-decoration: none;
+    color: #66625b;
+}
+.sjfx-m-t a img{
+    border: 3px solid #66625b;
+    border-radius: 2px;
+}
+.partner a{
+    color: #000;
+}
+.partner a:hover{
+    color: #66625b;
+    text-decoration: none;
+}
+.submit_:hover{
+    background-color: #5c662d;
+}
+.search-pointer li{
+    cursor: pointer;
+}
+.search-pointer li:hover{
+    color: #c94140;
+}
+

@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-pills">
+            <li>
+                <a href="{:U('Admin/Index/index','','html')}">首页</a>
+            </li>
+            <li>
+                <a href="{:U('Admin/Index/user_','','html')}">管理员管理首页</a>
+            </li>
+            <if condition="$id eq 'SA'">
+                <li>
+                    <a href="{:U('Admin/Index/add_user','','html')}">添加新管理员</a>
+                </li>
+            </if>
+        </ul>
+    </div>
+</div>

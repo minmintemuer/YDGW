@@ -1,0 +1,543 @@
+[ 2017-03-25T14:57:33+08:00 ] ::1 /YD/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-25T14:57:36+08:00 ] ::1 /YD/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2017-03-25T14:57:39+08:00 ] ::1 /YD/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-03-25T14:58:38+08:00 ] ::1 /YD/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-25T14:59:09+08:00 ] ::1 /YD/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-25T14:59:47+08:00 ] ::1 /YD/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-25T15:00:05+08:00 ] ::1 /YD/Admin/Public/rg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-25T21:20:36+08:00 ] ::1 /company/YD/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-25T21:20:39+08:00 ] ::1 /company/YD/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-03-25T21:20:42+08:00 ] ::1 /company/YD/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-25T21:20:44+08:00 ] ::1 /company/YD/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-25T21:20:45+08:00 ] ::1 /company/YD/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-25T21:20:46+08:00 ] ::1 /company/YD/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-25T21:20:46+08:00 ] ::1 /company/YD/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-03-25T21:20:47+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-03-25T21:20:48+08:00 ] ::1 /company/YD/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-25T21:20:48+08:00 ] ::1 /company/YD/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-25T21:21:54+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-25T21:23:18+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-25T21:23:21+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-25T21:23:22+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-25T21:23:24+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-25T21:25:01+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-25T21:27:47+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-25T21:30:45+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-25T21:33:40+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-25T21:33:41+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-25T21:34:52+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-25T21:35:01+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-25T21:35:11+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-03-25T21:36:52+08:00 ] ::1 /company/YD/Admin/Index/edit_seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-25T21:37:08+08:00 ] ::1 /company/YD/Admin/Index/edit_seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-25T21:44:29+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2017-03-25T21:44:32+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-25T21:44:53+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-25T21:45:20+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-25T21:45:48+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-25T21:47:51+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-03-25T21:48:06+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0130s ]
+ERR: Think\Controller:ajxaReutrn方法不存在！
+
+[ 2017-03-25T21:48:18+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0139s ]
+ERR: Think\Controller:ajxaReutrn方法不存在！
+
+[ 2017-03-25T21:49:01+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+
+[ 2017-03-25T21:49:14+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003971s ]
+
+[ 2017-03-25T21:49:18+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0141s ]
+ERR: Think\Controller:ajaxReutrn方法不存在！
+
+[ 2017-03-25T21:51:22+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0103s ]
+
+[ 2017-03-25T21:51:47+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002331s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0280s ]
+
+[ 2017-03-25T21:52:34+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0106s ]
+
+[ 2017-03-25T21:53:57+08:00 ] ::1 /company/YD/Admin/Ajax/ajax_add_seo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+SQL: SHOW COLUMNS FROM `tb_seo` [ RunTime:0.0208s ]
+SQL: UPDATE `tb_seo` SET `seo_keyword`='优大',`seo_author`='蔡正军',`seo_description`='优大官网',`seo_live_entry`='http://localhost/company/YD/',`seo_online_qq`='1634621150',`seo_wechat`='/production/image/image/2017-03-25/58d6755a258ef.jpg' WHERE ( seo_id=1 ) [ RunTime:0.1516s ]
+
+[ 2017-03-25T21:53:58+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-03-25T21:56:06+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-25T21:56:52+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-25T21:57:03+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-03-25T21:57:38+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-03-25T21:57:39+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-25T21:58:02+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-25T21:58:08+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-25T22:01:08+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-03-25T22:01:11+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-25T22:01:12+08:00 ] ::1 /company/YD/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-03-25T22:01:13+08:00 ] ::1 /company/YD/Admin/Index/news_detail/id/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-25T22:01:15+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-25T22:01:16+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-25T22:01:17+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-25T22:01:25+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-03-25T22:01:35+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-25T22:01:36+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-25T22:01:47+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-25T22:04:08+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-03-25T22:04:15+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-03-25T22:04:24+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-03-25T22:06:58+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-25T22:07:19+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-03-25T22:08:46+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-25T22:09:30+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-03-25T22:09:39+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-25T22:12:09+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-03-25T22:13:10+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-25T22:13:28+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-25T22:13:29+08:00 ] ::1 /company/YD/Admin/Index/edit_seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+ERR: 参数错误或者未定义:id
+
+[ 2017-03-25T22:13:34+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-03-25T22:13:48+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-25T22:13:50+08:00 ] ::1 /company/YD/Admin/Index/edit_seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-03-25T22:13:53+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-25T22:13:55+08:00 ] ::1 /company/YD/Admin/Index/edit_seo/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-03-25T22:13:56+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-25T22:15:25+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-03-25T22:15:25+08:00 ] ::1 /company/YD/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-25T22:15:26+08:00 ] ::1 /company/YD/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-25T22:15:27+08:00 ] ::1 /company/YD/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-25T22:15:28+08:00 ] ::1 /company/YD/Admin/Index/seo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-25T22:15:29+08:00 ] ::1 /company/YD/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-25T22:15:29+08:00 ] ::1 /company/YD/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-25T22:15:30+08:00 ] ::1 /company/YD/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-25T22:15:31+08:00 ] ::1 /company/YD/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-03-25T22:15:31+08:00 ] ::1 /company/YD/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-25T22:15:32+08:00 ] ::1 /company/YD/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-25T22:15:34+08:00 ] ::1 /company/YD/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-25T22:15:35+08:00 ] ::1 /company/YD/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-03-25T22:15:35+08:00 ] ::1 /company/YD/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-03-25T22:15:36+08:00 ] ::1 /company/YD/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-25T22:15:37+08:00 ] ::1 /company/YD/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2017-03-25T22:15:38+08:00 ] ::1 /company/YD/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-03-25T22:15:40+08:00 ] ::1 /company/YD/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+

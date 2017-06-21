@@ -1,0 +1,135 @@
+
+	<!--导航栏-->
+		<div class="navbar navbar-default navbar-static-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href="{:U('Home/Index/index','','')}" class="navbar-brand"><span>优大</span></a>
+			</div>
+			<div class="collapse navbar-collapse" id="navbar-ex-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a href="{:U('Home/Index/gsjj','','')}">公司简介</a>
+					</li>
+					<li>
+						<a href="{:U('Home/Index/hyzx','','')}">行业资讯</a>
+					</li>
+					<li  class="active">
+						<a href="{:U('Home/Index/kcjj','','')}">课程展示</a>
+					</li>
+					<li>
+						<a href="{:U('Home/Index/gshd','','')}">公司活动</a>
+					</li>
+					<li>
+						<a href="{:U('Home/Index/jsfc','','')}">教师风采</a>
+					</li>
+                    <li>
+                        <a href="{:U('Home/Index/allb','','')}">典型案例</a>
+                    </li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!--课程介绍-->
+		<div class="section ">
+			<div class="container ">
+				<div class="row ">
+					<div class="col-md-12 ">
+						<ul class="breadcrumb" style="background-color: #fff;">
+							<li>
+								<a href="{:U('Home/Index/index','','')}">首页</a>
+							</li>
+							<li>
+								<a href="{:U('Home/Index/kcjj','','')}">全部课程</a>
+							</li>
+							<li>
+								<a href="{:U('Home/Index/kcxq','','')}">{$data[0]['class_name']}</a>
+							</li>
+							<li class="active">
+								课程预订
+							</li>
+						</ul>
+						<h1>{$data[0]['class_name']}</h1>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section " data-interval="false ">
+			<div class="container ">
+				<div class="row ">
+					<div class="col-md-4 ">
+						<img src="__PUBLIC__{$data[0]['class_img']}" class="img-responsive heght_max_300">
+					</div>
+					<div class="col-md-8">
+						<h1>{$data[0]['class_name']}</h1>
+						<a href="{:U('Home/Index/jsxq','','')}/id/{$data[0]['teacher_id']}">
+							<p>任课教师：{$data[0]['class_teacher']}</p>
+						</a>
+						<hr>
+						<div class="panel panel-primary ">
+							<div class="panel-heading ">
+								<h3 class="panel-title">￥&nbsp;&nbsp;{$data[0]['class_price']}&nbsp;&nbsp;RMB</h3>
+							</div>
+						</div>
+						<a href="#" class="btn btn-info btn-lg ">在线咨询</a>
+				</div>
+			</div>
+		</div>
+		</div>
+	<!--预定提交表-->
+		<div class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+							<div class="form-group has-feedback"><label class="control-label" for="tourists_name">姓名</label><input class="form-control input-lg" id="tourists_name" placeholder="请输入你的姓名" type="text"></div>
+							<div class="form-group has-feedback"><label class="control-label" for="tourists_tel">电话</label><input class="form-control input-lg" id="tourists_tel" placeholder="请输入你的电话号码" type="text"></div>
+							<div class="form-group"><label class="control-label" for="tourists_email">邮箱</label><input class="form-control input-lg" id="tourists_email" placeholder="请输入你的邮箱" type="text"></div>
+							<div class="form-group has-feedback"><label class="control-label" for="tourists_id_number">身份证号</label><input class="form-control input-lg" id="tourists_id_number" placeholder="请输入你的身份证号码" type="text"></div>
+							<div class="form-group has-feedback"><label class="control-label" for="tourists_address">地址</label><input class="form-control input-lg" id="tourists_address" placeholder="请输入你的地址" type="text"></div>
+							<button type="submit" class="btn btn-block btn-lg btn-primary" onclick="yuding()">预订</button>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script>
+            function yuding(){
+                if(confirm("是否提交？")){
+                    if($('#tourists_name').val()!="" && $('#tourists_address').val()!="" && $('#tourists_id_number').val()!="" && $('#tourists_email').val()!="" && $('#tourists_tel').val()!="" ){
+                        $.ajax({
+                            url:"{:U('/Home/Ajax/ajax_add_order','','html')}",
+                            dataType: 'json',
+                            type:'post',
+                            data:{
+                                id:{$data[0]['class_id']},
+                                tourists_name:$("#tourists_name").val(),
+                                tourists_address: $("#tourists_address").val(),
+                                tourists_id_number:$("#tourists_id_number").val(),
+                                tourists_email: $("#tourists_email").val(),
+                                tourists_tel:$("#tourists_tel").val()
+                            },
+                            success:function (data) {
+                                if (data.success){
+                                    alert(data.message);
+                                    if(confirm("是否立即联系客服？")){
+                                       window.location.href='tencent://message/?uin=1634621150&Menu=yes';
+                                    }
+                                    window.location.reload();
+                                }else {
+                                    alert(data.message);
+                                }
+                            }
+                        })
+                    }else{
+                        alert('请输入完整的信息！');
+                    }
+                }
+            }
+
+		</script>

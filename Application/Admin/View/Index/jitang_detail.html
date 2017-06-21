@@ -1,0 +1,74 @@
+<include file="./Application/Admin/View/Public/jitang_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>鸡汤列表 <small>鸡汤管理总览</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>字段 </th>
+                    <th>内容  </th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>鸡汤名称</td>
+                    <td>{$data[0]['soft_text_title']}</td>
+                </tr>
+                <tr>
+                    <td>鸡汤作者</td>
+                    <td>{$data[0]['soft_text_admin']}</td>
+                </tr>
+                <tr>
+                    <td>鸡汤最后更新时间</td>
+                    <td>{$data[0]['soft_text_time']|date="Y-m-d H:i:s",###}</td>
+                </tr>
+                <tr>
+                    <td>鸡汤展示主图</td>
+                    <td><img src="__PUBLIC__{$data[0]['soft_text_img']}" style="max-height: 200px"></td>
+                </tr>
+                <tr>
+                    <td>展示状态</td>
+                    <if condition="$data[0]['is_show'] eq 1">
+                        <td style="background-color: #b16549">展示中</td>
+                        <else/>
+                        <td>不显示</td>
+                    </if>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1>鸡汤详情 <small>以下是鸡汤详情</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        {$data[0]['soft_text_content']}
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <a href="{:U('Admin/Index/edit_jitang','','')}/id/{$data[0]['soft_text_id']}" class="btn btn-default">修改</a>
+        <button this-id="{$data[0]['soft_text_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+        <if condition="$data[0]['is_show'] eq 1">
+            <a href="{:U('Admin/Public/xiajia','','')}/table/tb_soft_text/pk/soft_text_id/id/{$data[0]['soft_text_id']}" class="btn btn-danger">隐藏</a>
+            <else/>
+            <a href="{:U('Admin/Public/shangjia','','')}/table/tb_soft_text/pk/soft_text_id/id/{$data[0]['soft_text_id']}" class="btn btn-default">展示</a>
+        </if>
+    </div>
+</div>
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该条鸡汤？")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_soft_text/pk/soft_text_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

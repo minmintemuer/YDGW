@@ -1,0 +1,62 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="{$seo[0]['seo_keyword']}" />
+    <meta name="description" content="{$seo[0]['seo_author']}" />
+    <meta name="author" content="{$seo[0]['seo_description']}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="__PUBLIC__/bootstrap-3.3.4/js/tests/vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/bootstrap-3.3.4/dist/js/bootstrap.min.js"></script>
+    <link href="__PUBLIC__/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+{__CONTENT__}
+
+<!--友情链接-->
+<footer class="section section-primary">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 hidden-xs">
+                <h3 class="text-center">微信链接</h3>
+                <img src="__PUBLIC__{$seo[0]['seo_wechat']}" class="heght_max_197 center-block">
+            </div>
+            <div class="col-sm-3 hidden-xs">
+                <h3 class="text-center ">QQ在线客服</h3>
+               <a href="tencent://message/?uin={$seo[0]['seo_online_qq']}&Menu=yes"><img src="__PUBLIC__/ft_qq.png" class="heght_max_197 center-block"></a>
+            </div>
+            <div class="col-sm-6 hidden-xs">
+                <div class="col-sm-2">
+                   <a href="{:U('Home/Index/gsjj','','')}" class="text-right" style="color: #fff;"><h5>公司简介</h5></a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="{:U('Home/Index/hyzx','','')}"  class="text-right" style="color: #fff;"><h5>行业资讯</h5></a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="{:U('Home/Index/kcjj','','')}"  class="text-right" style="color: #fff;"><h5>课程展示</h5></a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="{:U('Home/Index/gshd','','')}"  class="text-right" style="color: #fff;"><h5>公司活动</h5></a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="{:U('Home/Index/jsfc','','')}"  class="text-right" style="color: #fff;"><h5>教师风采</h5></a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="{:U('Home/Index/allb','','')}"  class="text-right" style="color: #fff;"><h5>典型案例</h5></a>
+                </div>
+            </div>
+            <div class="col-sm-12" >
+                <h6 class="text-right"> 版权所有：重庆优大文化传播有限公司　技术支持：<a href="www.changeke.com"  style="color: #fff;">重庆焕延科技有限公司</a> </h6>
+                <h6 class="text-right"></h6>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--直播入口和在线客服-->
+<a href="tencent://message/?uin={$seo[0]['seo_online_qq']}&Menu=yes"><div class="online_kefu hidden-xs">
+    在<br>线<br>客<br>服
+</div></a>
+<a href="{$seo[0]['seo_live_entry']}"><div class="online_live hidden-xs">
+    直<br>播<br>入<br>口
+</div></a>
+</body>
+</html>

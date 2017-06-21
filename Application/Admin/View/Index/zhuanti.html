@@ -1,0 +1,74 @@
+<include file="./Application/Admin/View/Public/zhuanti_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>活动列表 <small>活动管理</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>活动名称  </th>
+                    <th>面向人群</th>
+                    <th>活动时间</th>
+                    <th>状态 </th>
+                    <th>操作 </th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="data" id="p_d">
+                    <tr>
+                        <td>{$p_d['activety_name']}</td>
+                        <td>{$p_d['activety_crowd']}</td>
+                        <td>{$p_d['activety_start_time']|date="Y-m-d",###}到{$p_d['activety_end_time']|date="Y-m-d",###}</td>
+                        <if condition="$p_d['is_show'] eq 1">
+                            <td style="background-color: #b16549">展示中</td>
+                            <else/>
+                            <td>已隐藏</td>
+                        </if>
+                        <td>
+                            <a href="{:U('Admin/Index/zhuanti_detail','','')}/id/{$p_d['activety_id']}" this-id="{$p_d['activety_id']}" target="_blank" class="btn btn-primary">查看详情</a>
+                            <button this-id="{$p_d['activety_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+                            <a href="{:U('Admin/Index/edit_zhuanti','','')}/id/{$p_d['activety_id']}" class="btn btn-success">编辑</a>
+                            <if condition="$p_d['is_show'] eq 1">
+                                <a href="{:U('Admin/Public/xiajia','','')}/table/tb_activety/pk/activety_id/id/{$p_d['activety_id']}" class="btn btn-danger">隐藏</a>
+                                <else/>
+                                <a href="{:U('Admin/Public/shangjia','','')}/table/tb_activety/pk/activety_id/id/{$p_d['activety_id']}" class="btn btn-default">展示</a>
+                            </if>
+                        </td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function change_sorting(e){
+        $.ajax({
+            url:"{:U('/Admin/Ajax/save_sorting','','html')}",
+            dataType: 'json',
+            type:'post',
+            data:{
+               table:"zhuanti_table",
+                pk:"zhuanti_id",
+                id:$(e).attr("this-id"),
+                sorting:$(e).val()
+            },
+            success:function (data) {
+                if (data.success){
+                    alert(data.message);
+                    window.location.reload();
+                }else {
+                }
+            }
+        })
+    }
+    function ask_delete(e){
+        if(confirm("是否删除该专题？注意：该操作不可逆，请谨慎操作")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_activety/pk/activety_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

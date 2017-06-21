@@ -1,0 +1,52 @@
+<include file="./Application/Admin/View/Public/jianjie_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>简介列表 <small>简介管理总览</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>简介ID  </th>
+                    <th>显示状态  </th>
+                    <th>最后更新时间  </th>
+                    <th>操作 </th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="data" id="p_d">
+                    <tr>
+                        <td>{$p_d['introduction_id']}</td>
+                        <if condition="$p_d['is_show'] eq 1">
+                            <td style="background-color: #b16549">展示中</td>
+                            <else/>
+                            <td>不显示</td>
+                        </if>
+                        <td>{$p_d['introduction_time']|Date="Y-m-d H:i:s",###}</td>
+                        <td>
+                            <a href="{:U('Admin/Index/jianjie_detail','','')}/id/{$p_d['introduction_id']}" this-id="{$p_d['introduction_id']}" class="btn btn-primary">查看详情</a>
+                            <button this-id="{$p_d['introduction_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+                            <a href="{:U('Admin/Index/edit_jianjie','','')}/id/{$p_d['introduction_id']}" class="btn btn-success">编辑</a>
+                            <if condition="$p_d['is_show'] eq 1">
+                                <a href="{:U('Admin/Public/xiajianjie','','')}/table/tb_introduction/pk/introduction_id/id/{$p_d['introduction_id']}" class="btn btn-danger">隐藏</a>
+                                <else/>
+                                <a href="{:U('Admin/Public/shangjiejian','','')}/table/tb_introduction/pk/introduction_id/id/{$p_d['introduction_id']}" class="btn btn-default">展示</a>
+                            </if>
+                        </td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该条简介？")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_introduction/pk/introduction_id/id/"+$(e).attr("this-id");
+        }
+    }
+</script>

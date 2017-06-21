@@ -1,0 +1,65 @@
+<div class="row">
+    <div class="col-md-12">
+        <ul class="nav nav-pills">
+            <li>
+                <a href="{:U('Admin/Index/index','','html')}">首页</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label>旧密码</label>
+            <input class="form-control" id="old_pwd" value="{$data[0]['name']}" type="password">
+            <p class="help-block">请输入旧密码</p>
+        </div>
+        <div class="form-group">
+            <label>新密码</label>
+            <input class="form-control" id="new_pwd1" value="" type="password">
+            <p class="help-block">请输入新密码</p>
+        </div>
+        <div class="form-group">
+            <label>新密码</label>
+            <input class="form-control" id="new_pwd2" value="" type="password">
+            <p class="help-block">请确认新密码</p>
+        </div>
+        <div class="col-md-12 text-right">
+            <label class="hvr-sweep-to-right" style="margin: 30px">
+                <button class="btn btn-primary" type="submit" value="提交" onclick="tijiao()">提交修改</button>
+            </label>
+        </div>
+    </div>
+</div>
+<script language="JavaScript">
+    function tijiao(){
+        if(confirm("是否提交？")){
+            if($('#old_pwd').val()!="" && $('#new_pwd1').val()!="" && $('#new_pwd2').val()!=""){
+                if( $('#new_pwd1').val() === $('#new_pwd2').val()){
+                    $.ajax({
+                        url:"{:U('/Admin/Ajax/ajax_save_pwd','','html')}",
+                        dataType: 'json',
+                        type:'post',
+                        data:{
+                            old_pwd:$("#old_pwd").val(),
+                            new_pwd:$("#new_pwd1").val()
+                        },
+                        success:function (data) {
+                            if (data.success){
+                                alert(data.message);
+                                window.location.reload();
+                            }else {
+                                alert(data.message);
+                            }
+                        }
+                    })
+                }else{
+                    alert('两次密码不相等！');
+                }
+            }else{
+                alert('请完善信息！');
+            }
+
+        }
+    }
+</script>

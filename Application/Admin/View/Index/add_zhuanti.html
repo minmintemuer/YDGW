@@ -1,0 +1,127 @@
+<include file="./Application/Admin/View/Public/zhuanti_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>新增活动 <small>添加活动</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label>活动名称</label>
+            <input class="form-control" id="activety_name">
+            <p class="help-block">请输入活动名称</p>
+        </div>
+        <div class="form-group">
+            <label>面向人群</label>
+            <input class="form-control" id="activety_crowd">
+            <p class="help-block">请输入面向人群</p>
+        </div>
+        <div class="form-group">
+            <label>活动摘要</label>
+            <input class="form-control" id="activety_introduction">
+            <p class="help-block">请输入活动摘要</p>
+        </div>
+        <div class="form-group">
+            <label>开始时间</label>
+            <input class="form-control" id="activety_start_time" placeholder="格式：YYYY-MM-DD 例如：2017-03-20">
+            <p class="help-block">请输入开始时间</p>
+        </div>
+        <div class="form-group">
+            <label>结束时间</label>
+            <input class="form-control" id="activety_end_time" placeholder="格式：YYYY-MM-DD 例如：2017-03-20">
+            <p class="help-block">请输入结束时间</p>
+        </div>
+        <div class="form-group">
+            <label>操作人</label>
+            <input class="form-control" id="activety_admin">
+            <p class="help-block">请输入管理员名称</p>
+        </div>
+        <div class="form-group">
+            <label>活动展示图片<small style="color: rgba(81, 81, 83, 0.34)">535*360</small></label>
+            <form id="image_form" action="{:U('/Admin/Ajax/ajax_upload_image','','')}" method="post" target="hidden_frame" enctype="multipart/form-data">
+                <div class="form-group">
+                    <!--<label for="index_company_logo">允许格式：</label>-->
+                    <input id="index_company_logo" name="index_company_logo" type="file" onchange="uploadImg()" class="form-control" >
+                    <div class="col-xs-12" id="error_info" style="display: none"></div>
+                    <div class="col-md-3" style="display: block">
+                        <img  id="image_area" src="" width="100%" height="auto" ihref="" style="display: none">
+                    </div>
+                </div>
+            </form> <iframe style="display:none" name='hidden_frame' id="hidden_frame"></iframe>
+            <p class="help-block">请上传活动图片</p>
+            <script language="JavaScript">
+                function uploadImg()
+                {
+                    $("#image_form").submit();
+                }
+                function callback(message,success)
+                {
+                    if(success==false)
+                    {
+                        $("#error_info").html("<div class='bzsj_left'></div>"+message);
+                        $("#error_info").show();
+                        alert(message);
+                    }
+                    else{
+                        $("#error_info").hide();
+                        $("#image_area").attr("src",'__PUBLIC__'+message);
+                        $("#image_area").attr("ihref",message);
+                        $("#image_area").css("display","block");
+                        $("#image_area").show();
+                    }
+                }
+            </script>
+        </div>
+<div class="col-md-12" style="display: inline-block;">
+        <div class="form-group">
+            <label>请写入活动内容</label>
+            <script id="container" style="height:800px"  type="text/plain">
+
+            </script>
+            <!-- 配置文件 -->
+            <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.config.js"></script>
+            <!-- 编辑器源码文件 -->
+            <script type="text/javascript" src="__PUBLIC__/ueditor/ueditor.all.js"></script>
+            <script type="text/javascript" charset="utf-8" src="__PUBLIC__/ueditor/lang/zh-cn/zh-cn.js"></script>
+            <!-- 实例化编辑器 -->
+            <script type="text/javascript">
+                var ue = UE.getEditor('container');
+            </script>
+        </div>
+</div>
+        <div class="col-md-12 text-right">
+            <label class="hvr-sweep-to-right" style="margin: 30px">
+                <button class="btn btn-primary" type="submit" value="提交" onclick="tijiao()">提交</button>
+            </label>
+        </div>
+    </div>
+</div>
+<script language="JavaScript">
+    function tijiao(){
+        if(confirm("是否提交？")){
+            $.ajax({
+                url:"{:U('/Admin/Ajax/ajax_add_zhuanti','','html')}",
+                dataType: 'json',
+                type:'post',
+                data:{
+                    activety_name:$("#activety_name").val(),
+                    activety_crowd:$("#activety_crowd").val(),
+                    activety_admin:$("#activety_admin").val(),
+                    activety_start_time:$("#activety_start_time").val(),
+                    activety_end_time:$("#activety_end_time").val(),
+                    activety_introduction:$("#activety_introduction").val(),
+                    activety_img: $("#image_area").attr("ihref"),
+                    activety_content:UE.getEditor('container').getContent()
+                },
+                success:function (data) {
+                    if (data.success){
+                        alert(data.message);
+                        window.location.reload();
+                    }else {
+                        alert(data.message);
+                    }
+                }
+            })
+        }
+    }
+</script>

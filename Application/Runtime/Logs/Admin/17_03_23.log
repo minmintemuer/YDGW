@@ -1,0 +1,2283 @@
+[ 2017-03-23T01:22:08+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-23T01:30:49+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-23T01:30:53+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-23T01:30:57+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-03-23T01:31:06+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-23T01:31:09+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-23T01:31:15+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-23T01:34:39+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-23T01:34:42+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-23T01:34:44+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-03-23T01:34:46+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-03-23T01:34:48+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-03-23T01:34:51+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-23T01:35:39+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-23T01:37:12+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T01:37:24+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-03-23T01:38:18+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='测试' )  [ RunTime:0.0003s ]
+
+[ 2017-03-23T01:38:33+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='蔡正军' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0094s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_img`,`news_content`,`news_time`) VALUES ('测试111111111','1','/production/image/image/2017-03-23/58d2b65433f5a.jpg','<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><em><strong>《三字经》，是中国的传统启蒙教材。在中国古代经典当中，《三字经》是最浅显易懂的读本之一。《三字经》取材典范，包括中国传统文化的文学、历史、哲学、天文地理、人伦义理、忠孝节义等等，而核心思想又包括了“</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%BB%81\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>仁</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B9%89/34160\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>义</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E8%AF%9A\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>诚</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E6%95%AC\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>敬</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%AD%9D/16477742\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>孝</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>。”背诵《三字经》的同时，就了解了常识、传统国学及历史故事，以及故事内涵中的做人做事道理。<img src=\"/ueditor/php/upload/image/20170323/1490204281964901.jpg\" title=\"1490204281964901.jpg\" alt=\"下载.jpg\"/></strong></em></span></p><p><span style=\"text-decoration: underline;\"><em><strong>在格式上，三字一句朗朗上口，因其文通俗、顺口、易记等特点，使其与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为中国传统蒙学三大读物，合称“三百千”。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[1]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>&nbsp;《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B8%89%E5%AD%97%E7%BB%8F/49\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>三字经</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为三大国学启蒙读物。《三字经》是中华民族珍贵的文化遗产，它短小精悍、琅琅上口，千百年来，家喻户晓。其内容涵盖了历史、天文、地理、道德以及一些民间传说，所谓“熟读《三字经》，可知千古事”。基于历史原因，《三字经》难免含有一些精神糟粕、艺术瑕疵，但其独特的思想价值和文化魅力仍然为世人所公认，被历代中国人奉为经典并不断流传。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[2]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a></p><p><span style=\"text-decoration: underline;\"><em><strong>《三字经》，是中国的传统启蒙教材。在中国古代经典当中，《三字经》是最浅显易懂的读本之一。《三字经》取材典范，包括中国传统文化的文学、历史、哲学、天文地理、人伦义理、忠孝节义等等，而核心思想又包括了“</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%BB%81\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>仁</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B9%89/34160\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>义</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E8%AF%9A\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>诚</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E6%95%AC\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>敬</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%AD%9D/16477742\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>孝</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>。”背诵《三字经》的同时，就了解了常识、传统国学及历史故事，以及故事内涵中的做人做事道理。</strong></em></span></p><p><span style=\"text-decoration: underline;\"><em><strong>在格式上，三字一句朗朗上口，因其文通俗、顺口、易记等特点，使其与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为中国传统蒙学三大读物，合称“三百千”。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[1]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>&nbsp;《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B8%89%E5%AD%97%E7%BB%8F/49\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>三字经</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为三大国学启蒙读物。《三字经》是中华民族珍贵的文化遗产，它短小精悍、琅琅上口，千百年来，家喻户晓。其内容涵盖了历史、天文、地理、道德以及一些民间传说，所谓“熟读《三字经》，可知千古事”。基于历史原因，《三字经》难免含有一些精神糟粕、艺术瑕疵，但其独特的思想价值和文化魅力仍然为世人所公认，被历代中国人奉为经典并不断流传。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[2]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a></p><p><span style=\"text-decoration: underline;\"><em><strong>《三字经》，是中国的传统启蒙教材。在中国古代经典当中，《三字经》是最浅显易懂的读本之一。《三字经》取材典范，包括中国传统文化的文学、历史、哲学、天文地理、人伦义理、忠孝节义等等，而核心思想又包括了“</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%BB%81\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>仁</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B9%89/34160\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>义</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E8%AF%9A\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>诚</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E6%95%AC\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>敬</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%AD%9D/16477742\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>孝</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>。”背诵《三字经》的同时，就了解了常识、传统国学及历史故事，以及故事内涵中的做人做事道理。</strong></em></span></p><p><span style=\"text-decoration: underline;\"><em><strong>在格式上，三字一句朗朗上口，因其文通俗、顺口、易记等特点，使其与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为中国传统蒙学三大读物，合称“三百千”。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[1]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>&nbsp;《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B8%89%E5%AD%97%E7%BB%8F/49\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>三字经</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为三大国学启蒙读物。《三字经》是中华民族珍贵的文化遗产，它短小精悍、琅琅上口，千百年来，家喻户晓。其内容涵盖了历史、天文、地理、道德以及一些民间传说，所谓“熟读《三字经》，可知千古事”。基于历史原因，《三字经》难免含有一些精神糟粕、艺术瑕疵，但其独特的思想价值和文化魅力仍然为世人所公认，被历代中国人奉为经典并不断流传。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[2]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a></p><p><span style=\"text-decoration: underline;\"><em><strong>《三字经》，是中国的传统启蒙教材。在中国古代经典当中，《三字经》是最浅显易懂的读本之一。《三字经》取材典范，包括中国传统文化的文学、历史、哲学、天文地理、人伦义理、忠孝节义等等，而核心思想又包括了“</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%BB%81\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>仁</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B9%89/34160\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>义</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E8%AF%9A\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>诚</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E6%95%AC\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>敬</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>，</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%AD%9D/16477742\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>孝</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>。”背诵《三字经》的同时，就了解了常识、传统国学及历史故事，以及故事内涵中的做人做事道理。</strong></em></span></p><p><span style=\"text-decoration: underline;\"><em><strong>在格式上，三字一句朗朗上口，因其文通俗、顺口、易记等特点，使其与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为中国传统蒙学三大读物，合称“三百千”。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[1]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>&nbsp;《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E4%B8%89%E5%AD%97%E7%BB%8F/49\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>三字经</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》与《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E7%99%BE%E5%AE%B6%E5%A7%93/194637\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>百家姓</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》、《</strong></em></span><a target=\"_blank\" href=\"http://baike.baidu.com/item/%E5%8D%83%E5%AD%97%E6%96%87/447586\" style=\"color: rgb(19, 110, 194); text-decoration: underline;\"><em><strong>千字文</strong></em><em></em></a><span style=\"text-decoration: underline;\"><em><strong>》并称为三大国学启蒙读物。《三字经》是中华民族珍贵的文化遗产，它短小精悍、琅琅上口，千百年来，家喻户晓。其内容涵盖了历史、天文、地理、道德以及一些民间传说，所谓“熟读《三字经》，可知千古事”。基于历史原因，《三字经》难免含有一些精神糟粕、艺术瑕疵，但其独特的思想价值和文化魅力仍然为世人所公认，被历代中国人奉为经典并不断流传。<span style=\"text-decoration: underline; font-size: 10.5px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; margin-left: 2px; color: rgb(51, 102, 204); cursor: default; padding: 0px 2px;\">[2]</span></strong></em></span><a class=\"sup-anchor\" style=\"color: rgb(19, 110, 194); position: relative; top: -50px; font-size: 0px; line-height: 0; text-decoration: underline;\"><em><strong>&nbsp;</strong></em><em></em></a></p><p><span style=\"text-decoration: underline;\"><em><strong><br/></strong></em></span></p>','1490204313') [ RunTime:0.0791s ]
+
+[ 2017-03-23T01:38:35+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001338s ]
+
+[ 2017-03-23T01:38:42+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-03-23T01:38:45+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-03-23T01:38:47+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-03-23T01:38:50+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-03-23T01:38:51+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-03-23T01:40:27+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-03-23T01:40:36+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-23T01:42:48+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+
+[ 2017-03-23T01:42:55+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-23T01:42:58+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-23T01:43:10+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-23T01:43:22+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_jiaoshi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0150s ]
+SQL: INSERT INTO `tb_teacher` (`teacher_name`,`teacher_img`,`teacher_features`,`teacher_class_name`) VALUES ('李顺','/production/image/image/2017-03-23/58d2b7ae9f69a.jpg','<p>WEB&nbsp;</p>','WEB') [ RunTime:0.0472s ]
+
+[ 2017-03-23T01:43:24+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-23T01:43:37+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-03-23T01:43:40+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-03-23T01:43:45+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-03-23T01:44:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-23T01:44:16+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `tb_teacher` WHERE ( teacher_name='李顺' && teacher_class_name like '%WEB%' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_class` [ RunTime:0.0340s ]
+SQL: INSERT INTO `tb_class` (`class_name`,`class_teacher`,`class_price`,`class_img`,`class_content`,`class_time`) VALUES ('WEB','李顺','999','/production/image/image/2017-03-23/58d2b7e7d1107.jpg','<p>webwebwebbwebwbe</p>','1490204656') [ RunTime:0.0657s ]
+
+[ 2017-03-23T01:44:18+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-23T01:44:47+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-23T01:44:53+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `tb_teacher` WHERE ( teacher_name='李顺' && teacher_class_name like '%WEB%' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_class` [ RunTime:0.0072s ]
+SQL: INSERT INTO `tb_class` (`class_name`,`class_teacher`,`class_price`,`class_img`,`class_content`,`class_time`) VALUES ('WEB','李顺','9999','/production/image/image/2017-03-23/58d2b80f4cded.jpg','<p>aaaaaaaa<br/></p>','1490204693') [ RunTime:0.0800s ]
+
+[ 2017-03-23T01:44:55+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-23T01:45:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-23T01:45:20+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `tb_teacher` WHERE ( teacher_name='李顺' && teacher_class_name like '%WEB%' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_class` [ RunTime:0.0068s ]
+SQL: INSERT INTO `tb_class` (`class_name`,`class_teacher`,`class_price`,`class_img`,`class_content`,`class_time`) VALUES ('WEB','李顺','99999','/production/image/image/2017-03-23/58d2b82a4ee3d.jpg','<p>ffffff</p>','1490204720') [ RunTime:0.0700s ]
+
+[ 2017-03-23T01:45:21+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-23T01:48:23+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-23T01:52:12+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-03-23T01:53:14+08:00 ] ::1 /company/YDGW/Admin/Index/inde3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-23T01:53:17+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-03-23T01:53:19+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-23T01:53:22+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-23T01:54:05+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-23T01:55:47+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-03-23T02:24:22+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-23T02:30:32+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-03-23T02:30:34+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-23T02:30:36+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-23T02:30:48+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-03-23T02:30:50+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-23T02:30:53+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T02:30:54+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-03-23T02:31:03+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-23T02:31:04+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-23T02:31:05+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-03-23T02:31:07+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-23T02:31:14+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T02:31:15+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-23T02:31:16+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-03-23T02:31:40+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-23T02:31:41+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-03-23T02:31:44+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-03-23T02:31:45+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-03-23T02:31:48+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T02:32:01+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-23T02:32:02+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2017-03-23T02:32:06+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-23T02:32:07+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-03-23T02:32:08+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T02:35:53+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-03-23T02:35:58+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-23T02:35:59+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-03-23T02:36:00+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-23T02:36:02+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-23T02:36:04+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-03-23T02:36:10+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-23T02:36:11+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-23T02:36:13+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-23T02:36:14+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-03-23T02:36:16+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-23T02:36:17+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-03-23T02:36:36+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-23T02:36:41+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-23T02:36:42+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+
+[ 2017-03-23T02:36:43+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-23T02:36:44+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-03-23T02:36:46+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-23T02:36:47+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-23T02:36:48+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-23T02:36:49+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-03-23T02:36:59+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-23T02:37:42+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-23T02:37:48+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-03-23T02:37:51+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-23T02:37:52+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-23T02:37:55+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-23T02:37:56+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-23T02:37:58+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-23T02:37:59+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-23T02:38:00+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-03-23T02:38:01+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-23T02:38:03+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-23T02:40:00+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-03-23T02:40:02+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-23T02:40:30+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-23T02:40:32+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-03-23T02:40:32+08:00 ] ::1 /company/YDGW/Admin/Public/shangjianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 非法操作:shangjianjie
+
+[ 2017-03-23T02:40:55+08:00 ] ::1 /company/YDGW/Admin/Public/shangjianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 非法操作:shangjianjie
+
+[ 2017-03-23T02:40:58+08:00 ] ::1 /company/YDGW/Admin/Public/shangjianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 非法操作:shangjianjie
+
+[ 2017-03-23T02:41:00+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-23T02:41:01+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-23T02:41:02+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+
+[ 2017-03-23T02:41:04+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-23T02:41:06+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-23T02:41:07+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-23T02:41:08+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-03-23T02:41:09+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-23T02:41:11+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-03-23T02:41:39+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-23T02:42:06+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-03-23T02:42:07+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-23T02:42:08+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T02:42:09+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-03-23T02:42:11+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-03-23T02:42:12+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-03-23T02:42:13+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-03-23T02:42:14+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-03-23T02:42:15+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-23T02:45:39+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-23T02:45:41+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-03-23T02:45:43+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-23T03:47:28+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-23T03:47:33+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-03-23T13:40:24+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008510s ]
+
+[ 2017-03-23T14:02:57+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-03-23T14:02:58+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T14:03:00+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T14:03:01+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-23T14:03:08+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-23T14:03:12+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-23T14:03:13+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-03-23T14:03:14+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-23T14:03:16+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-23T14:06:03+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-03-23T14:06:05+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-23T14:06:07+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-23T14:06:08+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-23T14:06:09+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-23T14:06:10+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-23T14:35:17+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-03-23T14:35:18+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+
+[ 2017-03-23T14:35:21+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-03-23T14:35:30+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-23T14:35:33+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-23T14:36:55+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-23T14:38:03+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T14:38:32+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T14:38:44+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='蔡正军' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0092s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_img`,`news_content`,`news_time`) VALUES ('撒地方','1','','<p>阿斯蒂芬</p>','1490251124') [ RunTime:0.0694s ]
+
+[ 2017-03-23T14:38:47+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-03-23T14:39:17+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='蔡正军' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0075s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_img`,`news_content`,`news_time`) VALUES ('测试456','1','','','1490251157') [ RunTime:0.0741s ]
+
+[ 2017-03-23T14:39:18+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-23T14:40:21+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='蔡正军' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0078s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('阿斯蒂芬 ','1','撒地方','','<p>阿斯蒂芬阿斯蒂芬</p>','1490251221') [ RunTime:0.0799s ]
+
+[ 2017-03-23T14:49:39+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-23T14:49:45+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-03-23T14:49:47+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-03-23T14:49:49+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-23T14:58:31+08:00 ] ::1 /company/YDGW/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-03-23T14:58:32+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T14:58:49+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-23T14:58:50+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-23T14:58:50+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T14:58:51+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-03-23T14:58:51+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001524s ]
+
+[ 2017-03-23T14:58:52+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-23T14:58:52+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-23T14:58:53+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-03-23T14:58:53+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-23T14:58:54+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-03-23T14:58:55+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-23T14:58:56+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-23T14:59:01+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-23T14:59:02+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T14:59:02+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-03-23T14:59:03+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+
+[ 2017-03-23T14:59:03+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-23T14:59:06+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-23T14:59:07+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-03-23T14:59:08+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-03-23T14:59:10+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-23T14:59:10+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-23T14:59:12+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-23T14:59:37+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-23T14:59:44+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='蔡正军' )  [ RunTime:0.0003s ]
+
+[ 2017-03-23T14:59:54+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0074s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻1','3','123456','/production/image/image/2017-03-23/58d37259d1686.jpg','<p>这是测试数据1</p>','1490252394') [ RunTime:0.0655s ]
+
+[ 2017-03-23T14:59:56+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-03-23T15:01:24+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-23T15:01:31+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0075s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻2','3','456456','/production/image/image/2017-03-23/58d372c4cbc84.jpg','<p>测试数据2</p>','1490252490') [ RunTime:0.0836s ]
+
+[ 2017-03-23T15:01:32+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-23T15:01:47+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-03-23T15:01:54+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='新闻3' )  [ RunTime:0.0003s ]
+
+[ 2017-03-23T15:02:05+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0075s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻','3','新闻3','/production/image/image/2017-03-23/58d372db82fbe.jpg','<p><sub>测试数据3</sub><br/></p>','1490252525') [ RunTime:0.0555s ]
+
+[ 2017-03-23T15:02:07+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-23T15:02:22+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-03-23T15:02:33+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0070s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻4','3','4564','/production/image/image/2017-03-23/58d372fe1be01.jpg','<p>测试数据4</p><p>3</p>','1490252553') [ RunTime:0.0763s ]
+
+[ 2017-03-23T15:02:34+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-03-23T15:02:56+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T15:03:00+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0073s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻','3','45646','/production/image/image/2017-03-23/58d373200c99d.jpg','<p>啊士大夫金龙卡</p>','1490252580') [ RunTime:0.0878s ]
+
+[ 2017-03-23T15:03:02+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+
+[ 2017-03-23T15:03:17+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-23T15:03:22+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0076s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻','3','4654','/production/image/image/2017-03-23/58d37335a3079.jpg','<p>撒地方撒地方啊是&nbsp;</p>','1490252602') [ RunTime:0.0942s ]
+
+[ 2017-03-23T15:03:23+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-23T15:03:42+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-23T15:04:00+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0079s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻','3','456654','/production/image/image/2017-03-23/58d3734e0b47c.jpg','<p>撒地方撒旦飞洒的</p>','1490252640') [ RunTime:0.0593s ]
+
+[ 2017-03-23T15:04:01+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T15:04:12+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-03-23T15:04:18+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002572s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0508s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('564','3','45646','/production/image/image/2017-03-23/58d3736c7459d.jpg','<p>撒地方阿斯蒂芬阿斯顿发射点发射点</p>','1490252657') [ RunTime:0.1133s ]
+
+[ 2017-03-23T15:04:19+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-03-23T15:04:33+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-03-23T15:04:37+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0070s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('564654','3','4564564','/production/image/image/2017-03-23/58d373811dd94.jpg','<p>阿斯蒂芬阿历克斯酱豆腐卡拉斯的</p>','1490252677') [ RunTime:0.0692s ]
+
+[ 2017-03-23T15:04:39+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-03-23T15:05:23+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-03-23T15:05:24+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-03-23T15:05:37+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0436s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_introduction` [ RunTime:0.0081s ]
+SQL: INSERT INTO `tb_introduction` (`introduction_admin_id`,`introduction_content`,`introduction_time`) VALUES ('3','<p>啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发啊开了士大夫艰苦撒谎的看法卡拉看见撒旦回复快乐哈撒看见就看撒好的发</p>','1490252737') [ RunTime:0.0811s ]
+
+[ 2017-03-23T15:05:38+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-23T15:05:41+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-23T15:05:42+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-23T15:06:25+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001350s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_activety` [ RunTime:0.0073s ]
+SQL: INSERT INTO `tb_activety` (`activety_name`,`activety_crowd`,`activety_admin`,`activety_start_time`,`activety_end_time`,`activety_introduction`,`activety_img`,`activety_content`,`activety_time`) VALUES ('456','1','3','1483200000','1483286400','活动摘要9','','<p>撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界&nbsp;</p>','1490252784') [ RunTime:0.0718s ]
+
+[ 2017-03-23T15:06:26+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-03-23T15:06:59+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-23T15:07:09+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_activety` [ RunTime:0.0070s ]
+SQL: INSERT INTO `tb_activety` (`activety_name`,`activety_crowd`,`activety_admin`,`activety_start_time`,`activety_end_time`,`activety_introduction`,`activety_img`,`activety_content`,`activety_time`) VALUES ('456','2','3','1483200000','1483286400','活动','/production/image/image/2017-03-23/58d374132684d.jpg','<p>坷拉似的发可垃圾啊是劳动纠纷了撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界撒旦覅啥的看法和课件撒看见了啥的反馈菊花盛开的卷发好看啦收到付款了是阿卡看了撒交话费的艰苦拉萨航空界</p>','1490252829') [ RunTime:0.0715s ]
+
+[ 2017-03-23T15:07:10+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-23T15:07:44+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tb_activety` [ RunTime:0.0375s ]
+SQL: INSERT INTO `tb_activety` (`activety_name`,`activety_crowd`,`activety_admin`,`activety_start_time`,`activety_end_time`,`activety_introduction`,`activety_img`,`activety_content`,`activety_time`) VALUES ('456','3','3','1483200000','1483372800','45646','','<p>阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见阿斯蒂芬库里哈瞌睡的回复可见</p>','1490252864') [ RunTime:0.0594s ]
+
+[ 2017-03-23T15:07:46+08:00 ] ::1 /company/YDGW/Admin/Index/add_zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-03-23T15:11:39+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-23T15:11:44+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-23T15:11:45+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T15:11:47+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-23T15:12:00+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-23T15:14:06+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T15:14:23+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-23T15:14:32+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_jiaoshi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0135s ]
+SQL: INSERT INTO `tb_teacher` (`teacher_name`,`teacher_img`,`teacher_introduction`,`teacher_features`,`teacher_class_name`) VALUES ('45646','/production/image/image/2017-03-23/58d375cfd9b7d.jpg','4564564','<p>asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;asdf asdf sad sadf&nbsp;asdf asdf sad sadf asdf asdf sad sadf&nbsp;</p>','web,php') [ RunTime:0.0622s ]
+
+[ 2017-03-23T15:14:33+08:00 ] ::1 /company/YDGW/Admin/Index/add_area
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-03-23T15:18:07+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-23T15:18:09+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-23T15:18:11+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-23T15:18:29+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-03-23T15:18:39+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_class
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002946s ]
+SQL: SHOW COLUMNS FROM `tb_teacher` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `tb_teacher` WHERE ( teacher_name='曾鑫' && teacher_class_name like '%PHP%' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_class` [ RunTime:0.0082s ]
+SQL: INSERT INTO `tb_class` (`class_name`,`class_teacher`,`class_price`,`class_introduction`,`class_img`,`class_content`,`class_time`) VALUES ('PHP','曾鑫','200','456','/production/image/image/2017-03-23/58d376c5a16ae.jpg','<p>阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了阿斯蒂芬就卡死的付款了</p>','1490253518') [ RunTime:0.0608s ]
+
+[ 2017-03-23T15:18:40+08:00 ] ::1 /company/YDGW/Admin/Index/add_kecheng
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2017-03-23T15:21:50+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-23T15:21:54+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-23T15:21:55+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-23T15:21:56+08:00 ] ::1 /company/YDGW/Admin/Index/order_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-23T15:21:57+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-23T15:21:57+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-23T15:21:58+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-23T15:21:59+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-03-23T15:22:01+08:00 ] ::1 /company/YDGW/Admin/Index/add_jitang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-03-23T15:22:25+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-23T15:22:35+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_soft_text.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_soft_text` [ RunTime:0.0094s ]
+SQL: INSERT INTO `tb_soft_text` (`soft_text_title`,`soft_text_introduction`,`soft_text_img`,`soft_text_content`,`soft_text_time`) VALUES ('案例','4564654','/production/image/image/2017-03-23/58d377b14a09f.jpg','<p><sup><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span><span style=\"font-size: 13.3333px;\">阿斯蒂芬阿斯蒂芬</span></sup><br/></p>','1490253755') [ RunTime:0.0470s ]
+
+[ 2017-03-23T15:22:36+08:00 ] ::1 /company/YDGW/Admin/Index/add_jitang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-03-23T15:25:30+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-23T15:25:31+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-03-23T15:25:32+08:00 ] ::1 /company/YDGW/Admin/Index/kefu_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-03-23T15:25:33+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-23T15:25:33+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-03-23T15:25:34+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-03-23T15:25:35+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-23T15:25:36+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-23T15:25:37+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-23T15:25:40+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-23T15:25:41+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T15:25:42+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-23T15:25:44+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-23T15:25:44+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-03-23T15:25:46+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-23T15:25:47+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-23T15:25:48+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-23T15:25:50+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-23T15:25:51+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-23T15:25:52+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-23T15:25:54+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-23T15:25:55+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_activety/pk/activety_id/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T15:25:56+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T15:25:57+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_activety/pk/activety_id/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-23T15:25:58+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-23T15:25:59+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_activety/pk/activety_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-23T15:26:00+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-23T15:26:01+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_activety/pk/activety_id/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-03-23T15:26:03+08:00 ] ::1 /company/YDGW/Admin/Index/zhuanti.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-03-23T15:26:04+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-23T15:26:06+08:00 ] ::1 /company/YDGW/Admin/Index/menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-23T15:26:08+08:00 ] ::1 /company/YDGW/Admin/Index/area_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-03-23T15:26:09+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T15:26:11+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_soft_text/pk/soft_text_id/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-23T15:26:12+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-03-23T15:26:13+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_soft_text/pk/soft_text_id/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-03-23T15:26:14+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-23T15:26:15+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_soft_text/pk/soft_text_id/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-23T15:26:16+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-03-23T15:26:17+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_soft_text/pk/soft_text_id/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-23T15:26:18+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-23T15:26:22+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-03-23T15:35:52+08:00 ] ::1 /company/YDGW/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-03-23T15:35:55+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-03-23T15:35:58+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-23T15:36:00+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-03-23T15:36:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-03-23T15:36:17+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0113s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('公司活动','/production/image/image/2017-03-23/58d37aee9ff1c.jpg') [ RunTime:0.0678s ]
+
+[ 2017-03-23T15:36:18+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-23T15:36:28+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-03-23T15:36:31+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0605s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('首页大图2','/production/image/image/2017-03-23/58d37afc382b0.jpg') [ RunTime:0.0597s ]
+
+[ 2017-03-23T15:36:32+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-03-23T15:36:46+08:00 ] ::1 /company/YDGW/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-03-23T15:36:48+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-03-23T15:36:49+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-03-23T15:36:51+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-03-23T15:36:52+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-23T15:36:53+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-23T15:37:44+08:00 ] ::1 /company/YDGW/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-23T15:37:50+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-03-23T15:37:50+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-23T15:37:53+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-23T15:38:58+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.1051s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='李顺' )  [ RunTime:0.0003s ]
+
+[ 2017-03-23T15:39:04+08:00 ] ::1 /company/YDGW/Admin/Public/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-23T15:39:06+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-23T15:39:09+08:00 ] ::1 /company/YDGW/Admin/Public/login_action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-03-23T15:39:10+08:00 ] ::1 /company/YDGW/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-23T15:39:15+08:00 ] ::1 /company/YDGW/Admin/Index/user_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-03-23T15:39:19+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-23T15:39:22+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-03-23T15:39:51+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_introduction.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0342s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_introduction` [ RunTime:0.0075s ]
+SQL: INSERT INTO `tb_introduction` (`introduction_admin_id`,`introduction_content`,`introduction_time`) VALUES ('3','<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">一提到“沙漠”，大家的脑海里会浮现出什么样的情景呢？寸草不生的干旱之地？没有生物的死亡世界？其实，都不是的，在那里，有美轮美奂的自然景象，也有数以万计的珍稀植物和动物。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\"><img src=\"/ueditor/php/upload/image/20170323/1490254783124267.jpg\" title=\"1490254783124267.jpg\" alt=\"下载.jpg\"/></span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\"><br/></span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">一望无际的沙漠里，简直就是一个极度喧嚣的世界，一幕幕优美的画面和热闹的舞台剧总是在轮番登场，令人心醉神怡。可是，它们的生存，却给人们留下了太多、太深、太久远的启示和忠告。不信？你看，在沙漠里，有一种植物叫胡杨，它是沙漠地区特有的珍贵森林资源，因其超顽强的生命力，还被人们赞誉为“长着千年不死，死后千年不倒，倒地千年不腐”的英雄树。</span><span style=\"font-family: 宋体; font-size: 19px;\">为了近观胡杨的独特风范，我和我的同伴曾走向塔克拉玛干沙漠的深处，在那荒凉的戈壁滩里，映入眼帘的是晶莹剔透的飞沙，迎接我们的是难忍的饥渴和孤独，以及炽热的煎熬，动物、植被的残骸四处呈现，而胡杨则展现出与天地抗争的勇气和执着！</span><span style=\"font-family: 宋体; font-size: 20px;\">它们顽强的生命，实在是悲壮又令人惊叹！</span><span style=\"font-family: 宋体; font-size: 19px;\">还有一种叫百岁兰的植物，它一生只生长两片</span><span style=\"font-family: 宋体; font-size: 19px;\">叶子，但每一片叶子都可以活到百余年甚至上千年的时间；当然，譬如</span><span style=\"font-family: 宋体; font-size: 20px;\">仙人掌、</span><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 20px;\"><span style=\"font-family: 宋体;\">梭梭</span></span><span style=\"font-family: 宋体; font-size: 20px;\">、</span><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 20px;\"><span style=\"font-family: 宋体;\">红柳树</span></span><span style=\"font-family: 宋体; font-size: 20px;\">……无不让人惊奇和赞颂！</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">在沙漠里，更生活着一群特殊的动物，如蜥蜴、骆驼、蒙古原羚、蛙、兔子、鼠类、蛇……你知道吗？蒙古原羚为了寻找水源会迁徒数百千米；有一种生活在沙漠里的蛙，如果没有下雨，它们能够在土壤里静静地休眠好几年，一旦雨落，马上爬出来在水里产卵；骆驼也是沙漠中的勇者，它们可以在沙漠中几天不吃不喝，能闻出地下流淌的水流，能在逆风中嗅到一百千米外的青草，能记得十几年甚至几十年前走过的路、经历的环境以及役用过它们的你，可它们从来不彰显自己对人的超长记忆和由此而生的感情依恋，从来都不彰显……它们就是那么的平凡、不起眼，却都有着勇者才具有的超强毅力。这些动物，平凡而伟大，相比起人类，真的就是道高一尺，魔高一丈。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">沙漠里的动植物，它们总会利用时机，总能创造时机，会感恩周围的世界，因为它们很清楚自己恶劣的生存环境，也接纳随时可能失去一切的事实，不管人生的得与失，总是要让自已珍贵的生命里充满了亮丽与光彩；它们从来不为过去掉泪，努力地让自己活出的生命得到更多的精彩和荣光；它们的青春常在！它们的青春永恒！它们都是地球上最美的天使，因为它们把自己看得很轻！更因为它们懂得珍惜！</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">沙漠里是个奇妙的世界，关于它们各自的形成，众说云云，</span><span style=\"font-family: 宋体; font-size: 19px;\">传说很久以前，一位神仙给了沙漠人民一柄金斧子</span><span style=\"font-family: 宋体; font-size: 19px;\">和</span><span style=\"font-family: 宋体; font-size: 19px;\">一把金钥匙，金斧子用来劈开阿尔泰山，引来天山的雪水，再用金钥匙打开塔木里的宝库，让沙漠得到生命的宝藏；不幸的是钥匙被神仙的小女儿在护送的时候丢失，从此盆地中央就成了塔克拉玛干沙漠</span><span style=\"font-family: 宋体; font-size: 19px;\">。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 45px;\"><span style=\"font-family: 宋体; font-size: 19px;\">看到这些，你的内心是不是有了更多的感慨和感动？和这些珍贵又顽强的生命相比，我们应该对自己反思些什么？是不是更应该马上行动起来，脚踏实地地做些什么呢？</span><span style=\"font-family: 宋体; font-size: 19px;\">（作者简介：黄宏宣，男，中国散文家协会会员，中国东方作家创作中心会员，江苏省作家协会会员，国家三级创作员，在各类刊物、网站上发表作品</span><span style=\"font-family: 宋体; font-size: 19px;\">千</span><span style=\"font-family: 宋体; font-size: 19px;\">余篇，十多篇散文在各级评比中获奖，并出版散文集《我这十年》和长篇小说《深深叹息》）</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">南京育英第二外国语学校（大厂区育英路</span><span style=\"font-family: 宋体; font-size: 19px;\">57</span><span style=\"font-family: 宋体; font-size: 19px;\">号）</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">邮编：</span><span style=\"font-family: 宋体; font-size: 19px;\">210044 &nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">电话：</span><span style=\"font-family: 宋体; font-size: 19px;\">13057576807</span></p><p><br/></p>','1490254791') [ RunTime:0.0971s ]
+
+[ 2017-03-23T15:39:52+08:00 ] ::1 /company/YDGW/Admin/Index/add_jianjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-03-23T15:39:56+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-23T15:39:57+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-03-23T15:39:59+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-23T15:40:01+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-03-23T15:40:02+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-03-23T15:40:11+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-03-23T15:40:13+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-23T15:40:14+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-03-23T15:40:15+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-23T15:40:32+08:00 ] ::1 /company/YDGW/Admin/Index/jianjie_detail/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-23T15:40:35+08:00 ] ::1 /company/YDGW/Admin/Public/xiajianjie/table/tb_introduction/pk/introduction_id/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-23T15:40:36+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-23T15:40:37+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-23T15:40:38+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-23T15:40:40+08:00 ] ::1 /company/YDGW/Admin/Public/shangjiejian/table/tb_introduction/pk/introduction_id/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-23T15:40:42+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-03-23T15:43:55+08:00 ] ::1 /company/YDGW/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-23T15:43:55+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-23T15:44:00+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-23T15:44:10+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2017-03-23T15:44:12+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-03-23T15:44:47+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-23T15:45:07+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0089s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻123456','3','这是新闻123456','/production/image/image/2017-03-23/58d37cef740d6.jpg','<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">一提到“沙漠”，大家的脑海里会浮现出什么样的情景呢？寸草不生的干旱之地？没有生物的死亡世界？其实，都不是的，在那里，有美轮美奂的自然景象，也有数以万计的珍稀植物和动物。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\"><img src=\"/ueditor/php/upload/image/20170323/1490255103604037.jpg\" title=\"1490255103604037.jpg\" alt=\"下载.jpg\"/></span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">一望无际的沙漠里，简直就是一个极度喧嚣的世界，一幕幕优美的画面和热闹的舞台剧总是在轮番登场，令人心醉神怡。可是，它们的生存，却给人们留下了太多、太深、太久远的启示和忠告。不信？你看，在沙漠里，有一种植物叫胡杨，它是沙漠地区特有的珍贵森林资源，因其超顽强的生命力，还被人们赞誉为“长着千年不死，死后千年不倒，倒地千年不腐”的英雄树。</span><span style=\"font-family: 宋体; font-size: 19px;\">为了近观胡杨的独特风范，我和我的同伴曾走向塔克拉玛干沙漠的深处，在那荒凉的戈壁滩里，映入眼帘的是晶莹剔透的飞沙，迎接我们的是难忍的饥渴和孤独，以及炽热的煎熬，动物、植被的残骸四处呈现，而胡杨则展现出与天地抗争的勇气和执着！</span><span style=\"font-family: 宋体; font-size: 20px;\">它们顽强的生命，实在是悲壮又令人惊叹！</span><span style=\"font-family: 宋体; font-size: 19px;\">还有一种叫百岁兰的植物，它一生只生长两片</span><span style=\"font-family: 宋体; font-size: 19px;\">叶子，但每一片叶子都可以活到百余年甚至上千年的时间；当然，譬如</span><span style=\"font-family: 宋体; font-size: 20px;\">仙人掌、</span><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 20px;\"><span style=\"font-family: 宋体;\">梭梭</span></span><span style=\"font-family: 宋体; font-size: 20px;\">、</span><span style=\"font-family: &quot;Times New Roman&quot;; font-size: 20px;\"><span style=\"font-family: 宋体;\">红柳树</span></span><span style=\"font-family: 宋体; font-size: 20px;\">……无不让人惊奇和赞颂！</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">在沙漠里，更生活着一群特殊的动物，如蜥蜴、骆驼、蒙古原羚、蛙、兔子、鼠类、蛇……你知道吗？蒙古原羚为了寻找水源会迁徒数百千米；有一种生活在沙漠里的蛙，如果没有下雨，它们能够在土壤里静静地休眠好几年，一旦雨落，马上爬出来在水里产卵；骆驼也是沙漠中的勇者，它们可以在沙漠中几天不吃不喝，能闻出地下流淌的水流，能在逆风中嗅到一百千米外的青草，能记得十几年甚至几十年前走过的路、经历的环境以及役用过它们的你，可它们从来不彰显自己对人的超长记忆和由此而生的感情依恋，从来都不彰显……它们就是那么的平凡、不起眼，却都有着勇者才具有的超强毅力。这些动物，平凡而伟大，相比起人类，真的就是道高一尺，魔高一丈。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">沙漠里的动植物，它们总会利用时机，总能创造时机，会感恩周围的世界，因为它们很清楚自己恶劣的生存环境，也接纳随时可能失去一切的事实，不管人生的得与失，总是要让自已珍贵的生命里充满了亮丽与光彩；它们从来不为过去掉泪，努力地让自己活出的生命得到更多的精彩和荣光；它们的青春常在！它们的青春永恒！它们都是地球上最美的天使，因为它们把自己看得很轻！更因为它们懂得珍惜！</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">沙漠里是个奇妙的世界，关于它们各自的形成，众说云云，</span><span style=\"font-family: 宋体; font-size: 19px;\">传说很久以前，一位神仙给了沙漠人民一柄金斧子</span><span style=\"font-family: 宋体; font-size: 19px;\">和</span><span style=\"font-family: 宋体; font-size: 19px;\">一把金钥匙，金斧子用来劈开阿尔泰山，引来天山的雪水，再用金钥匙打开塔木里的宝库，让沙漠得到生命的宝藏；不幸的是钥匙被神仙的小女儿在护送的时候丢失，从此盆地中央就成了塔克拉玛干沙漠</span><span style=\"font-family: 宋体; font-size: 19px;\">。</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 45px;\"><span style=\"font-family: 宋体; font-size: 19px;\">看到这些，你的内心是不是有了更多的感慨和感动？和这些珍贵又顽强的生命相比，我们应该对自己反思些什么？是不是更应该马上行动起来，脚踏实地地做些什么呢？</span><span style=\"font-family: 宋体; font-size: 19px;\">（作者简介：黄宏宣，男，中国散文家协会会员，中国东方作家创作中心会员，江苏省作家协会会员，国家三级创作员，在各类刊物、网站上发表作品</span><span style=\"font-family: 宋体; font-size: 19px;\">千</span><span style=\"font-family: 宋体; font-size: 19px;\">余篇，十多篇散文在各级评比中获奖，并出版散文集《我这十年》和长篇小说《深深叹息》）</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">南京育英第二外国语学校（大厂区育英路</span><span style=\"font-family: 宋体; font-size: 19px;\">57</span><span style=\"font-family: 宋体; font-size: 19px;\">号）</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(79, 93, 65); font-family: Simsun; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 37px;\"><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">邮编：</span><span style=\"font-family: 宋体; font-size: 19px;\">210044 &nbsp;</span><span style=\"font-family: 宋体; font-size: 19px;\">电话：</span><span style=\"font-family: 宋体; font-size: 19px;\">13057576807</span></p><p><br/></p>','1490255107') [ RunTime:0.0801s ]
+
+[ 2017-03-23T15:45:10+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-23T15:45:16+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-23T15:45:22+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-23T15:45:23+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-03-23T15:45:25+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-03-23T15:45:26+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T15:47:12+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-23T16:03:32+08:00 ] ::1 /company/YDGW/Admin/Index/comment_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-03-23T16:03:34+08:00 ] ::1 /company/YDGW/Admin/Index/index_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-23T16:03:37+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-03-23T16:04:01+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2017-03-23T16:04:04+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0097s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('公司活动','/production/image/image/2017-03-23/58d38171e813b.jpg') [ RunTime:0.0678s ]
+
+[ 2017-03-23T16:04:05+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-03-23T16:04:14+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-23T16:04:16+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0107s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('行业资讯','/production/image/image/2017-03-23/58d3817e54d2f.jpg') [ RunTime:0.0399s ]
+
+[ 2017-03-23T16:04:17+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+
+[ 2017-03-23T16:04:30+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-03-23T16:04:32+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_img.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+SQL: SHOW COLUMNS FROM `tb_img` [ RunTime:0.0108s ]
+SQL: INSERT INTO `tb_img` (`img_title`,`img_url`) VALUES ('教师风采','/production/image/image/2017-03-23/58d3818eb5ae3.jpg') [ RunTime:0.0593s ]
+
+[ 2017-03-23T16:04:34+08:00 ] ::1 /company/YDGW/Admin/Index/add_index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-03-23T16:04:34+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-23T16:04:36+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_img/pk/img_id/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-03-23T16:04:37+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-03-23T16:04:38+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_img/pk/img_id/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-23T16:04:40+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-23T16:04:41+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-03-23T16:04:42+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-03-23T16:04:43+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-03-23T16:04:44+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-03-23T16:04:46+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_img/pk/img_id/id/11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-03-23T16:04:47+08:00 ] ::1 /company/YDGW/Admin/Index/index_img
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-03-23T16:07:36+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-23T16:07:38+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-03-23T16:08:05+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_upload_image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-23T16:08:34+08:00 ] ::1 /company/YDGW/Admin/Ajax/ajax_add_news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001136s ]
+SQL: SHOW COLUMNS FROM `tb_manager` [ RunTime:0.0245s ]
+SQL: SELECT * FROM `tb_manager` WHERE ( manager_name='二胖' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `tb_news` [ RunTime:0.0099s ]
+SQL: INSERT INTO `tb_news` (`news_categroy`,`news_admin`,`news_introduction`,`news_img`,`news_content`,`news_time`) VALUES ('新闻新闻123321','3','新闻新闻新闻123321','/production/image/image/2017-03-23/58d382653afee.jpg','<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; line-height: 34px; color: rgb(76, 75, 75); font-family: &quot;Microsoft Yahei&quot;; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp;重庆优大文化传播有限公司，简称：优大文化，由诸辉、贾斌、郑建辉、秦文龙发起并联合创办，方永建、汤小英、高鹏等高层管理相继加入。公司位于重庆市南岸区长江国际写字楼。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 优大文化一直秉持着五年内帮助十万学员实现财富自由这一愿景，坚持以为社会传播信用，传播财商，为选择相信我们的客户创造价值为宗旨，帮助更多信用卡用户提升信用等级，根据学员自身信用情况打造个人信用资产0-300万不等；帮助小微企业规划企业信用打造备用资金0-1000万不等，解决企业出现的资金链断裂的问题，帮助企业上市。</p><p><img src=\"/ueditor/php/upload/image/20170323/1490256512520254.jpg\"/><span style=\"color: rgb(76, 75, 75); font-family: &quot;Microsoft Yahei&quot;; font-size: 14px; background-color: rgb(255, 255, 255);\"></span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; line-height: 34px; color: rgb(76, 75, 75); font-family: &quot;Microsoft Yahei&quot;; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 当今世界经济正在发生巨变，经济全球化与一体化已成为不可逆转的趋势。这是一个巨变的时代。从“商品稀缺”到“商品过剩”只用了短短不到二十年时间。而还没适应“生产过剩”的企业家们又将迎来更大的一波“资本过剩”的浪潮。过去所有的成功经验，今天都将成为你失败的根源。时代变革注定会让世界财富重新分配。如何在变革中应对企业的今日和未来？如何让你的资产实现几何级数的增长？在中国金融市场不断开放，推进改革中，优大文化应运而生。<br/>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 秉持着五年内帮助十万学员实现财富自由这一愿景，优大文化每月都会在重庆各地举办大型活动——财商解码专场，金融巨头、经济学家、企业巨子齐聚一堂、激荡思想、规划未来。直接影响人数超过数十万人，VIP学员超过上万人，代理商遍布北京、上海、深圳、武汉、成都的等36个省市。</p><p><img src=\"/ueditor/php/upload/image/20170323/1490256513983534.jpg\"/><span style=\"color: rgb(76, 75, 75); font-family: &quot;Microsoft Yahei&quot;; font-size: 14px; background-color: rgb(255, 255, 255);\"></span></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; line-height: 34px; color: rgb(76, 75, 75); font-family: &quot;Microsoft Yahei&quot;; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 肩负实现财富自由的使命，为中国亿万企业家掀起金融的神秘面纱。专业，是优大文化唯一致胜的法宝；创新，才能永保公司的市场竞争力。为了将金融的智慧更系统直接的影响中国的企业家，优大文化的导师团先后研发出：《信用财商~信用融资0-1000万》等涉及投资、融资、资本运作等领域的专业课程。让企业通过专业系统的课程培训，直接、有效、全面的认知金融的核心，帮助中国企业走出经济寒冬。在优大文化的会场里，有思考，有激动，有欢笑，也有喜悦的泪水。一张张收获的面孔汇聚成为优大文化腾飞的翅膀，也汇聚成所有企业家的财富梦想。<br/>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 在中国金融市场大开放，大变革的今天，优大文化人锐意进取，不断创新，为中国的企业家奉献出更多的商业智慧，让更多的企业家实现真正的财富自由。面向未来，所有优大文化人始终向着5年内帮助十万学员实现财富自由这一愿景坚实前行。</p><p><br/></p>','1490256514') [ RunTime:0.0524s ]
+
+[ 2017-03-23T16:08:36+08:00 ] ::1 /company/YDGW/Admin/Index/add_news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-03-23T16:08:50+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-23T16:08:53+08:00 ] ::1 /company/YDGW/Admin/Public/xiajia/table/tb_news/pk/news_id/id/23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-23T16:08:54+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-03-23T16:08:56+08:00 ] ::1 /company/YDGW/Admin/Public/shangjia/table/tb_news/pk/news_id/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-23T16:08:57+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+
+[ 2017-03-23T18:21:56+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-03-23T18:21:57+08:00 ] ::1 /company/YDGW/Admin/Index/jitang.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-03-23T18:22:03+08:00 ] ::1 /company/YDGW/Admin/Index/news_.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-23T18:22:14+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-03-23T18:22:19+08:00 ] ::1 /company/YDGW/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-23T18:22:21+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-23T18:22:30+08:00 ] ::1 /company/YDGW/Admin/Public/admin_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+

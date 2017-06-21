@@ -1,0 +1,55 @@
+<include file="./Application/Admin/View/Public/news_top.html" />
+<div class="row">
+    <div class="col-lg-12">
+        <h1>新闻列表 <small>新闻管理总览</small></h1>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+    <div class="col-lg-12">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover tablesorter">
+                <thead>
+                <tr>
+                    <th>新闻名称  </th>
+                    <th>显示状态  </th>
+                    <th>最后更新时间  </th>
+                    <th>点击量  </th>
+                    <th>操作 </th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="data" id="p_d">
+                    <tr>
+                        <td>{$p_d['news_categroy']}</td>
+                        <if condition="$p_d['is_show'] eq 1">
+                            <td style="background-color: #b16549">展示中</td>
+                            <else/>
+                            <td>不显示</td>
+                        </if>
+                        <td>{$p_d['news_time']|Date="Y-m-d H:i:s",###}</td>
+                        <td>{$p_d['news_hits']}</td>
+                        <td>
+                            <a href="{:U('Admin/Index/news_detail','','')}/id/{$p_d['news_id']}" class="btn btn-primary">查看详情</a>
+                            <button this-id="{$p_d['news_id']}" onclick="ask_delete(this)" class="btn btn-danger">删除</button>
+                            <a href="{:U('Admin/Index/edit_news','','')}/id/{$p_d['news_id']}" class="btn btn-success">编辑</a>
+                            <if condition="$p_d['is_show'] eq 1">
+                               <a href="{:U('Admin/Public/xiajia','','')}/table/tb_news/pk/news_id/id/{$p_d['news_id']}" class="btn btn-danger">隐藏</a>
+                             <else/>
+                                <a href="{:U('Admin/Public/shangjia','','')}/table/tb_news/pk/news_id/id/{$p_d['news_id']}" class="btn btn-default">展示</a>
+                             </if>
+                        </td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><!-- /.row -->
+<script language="JavaScript">
+    function ask_delete(e){
+        if(confirm("是否要删除该条新闻？")){
+            window.location.href="{:U('Admin/Public/del','','')}/table/tb_news/pk/news_id/id/"+$(e).attr("this-id");
+
+        }
+    }
+</script>
